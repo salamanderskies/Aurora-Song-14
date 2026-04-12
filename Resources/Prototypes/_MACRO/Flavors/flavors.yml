@@ -2,3 +2,8 @@
   id: allulalo
   flavorType: Complex
   description: flavor-complex-allulalo
+
+- type: flavor
+  id: snotty
+  flavorType: Complex
+  description: flavor-complex-snotty

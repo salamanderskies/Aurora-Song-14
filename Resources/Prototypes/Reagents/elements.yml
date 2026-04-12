@@ -88,7 +88,7 @@
       - !type:HealthChange
         conditions:
         - !type:MetabolizerTypeCondition
-          type: [ Arachnid, Decapoid ] #Macrocosm, Decapoid
+          type: [ Arachnid, Decapoid, Gastropoid ] #Macrocosm, added Decapoid and Gastropoid
           inverted: true
         damage:
           types:
@@ -96,7 +96,7 @@
       - !type:ModifyBloodLevel
         conditions:
         - !type:MetabolizerTypeCondition
-          type: [ Arachnid, Decapoid ] #Macrocosm, added Decapoid
+          type: [ Arachnid, Decapoid, Gastropoid ] #Macrocosm, added Decapoid and Gastropoid
         amount: 0.4
 
 - type: reagent
@@ -176,14 +176,14 @@
       - !type:HealthChange
         conditions:
         - !type:MetabolizerTypeCondition
-          type: [ Arachnid, Decapoid ] #Macrocosm, Decapoid
+          type: [ Arachnid, Decapoid, Gastropoid ] #Macrocosm, added Decapoid and Gastropoid
         damage:
           types:
             Poison: 0.1
       - !type:ModifyBloodLevel
         conditions:
         - !type:MetabolizerTypeCondition
-          type: [ Arachnid, Decapoid ] #Macrocosm, added Decapoid
+          type: [ Arachnid, Decapoid, Gastropoid ] #Macrocosm, added Decapoid and Gastropoid
           inverted: true
         amount: 0.4
 
