@@ -1,5 +1,5 @@
 - type: construction
-  name: parquet wood floor
+  name: tiles-wood-parquet
   id: TileWoodParquet
   graph: TileWoodParquet
   startNode: start
@@ -10,7 +10,7 @@
   objectType: Item
 
 - type: construction
-  name: black wood floor
+  name: tiles-wood-black
   id: TileWoodBlack
   graph: TileWoodBlack
   startNode: start
@@ -21,7 +21,7 @@
   objectType: Item
 
 - type: construction
-  name: dark wood floor
+  name: tiles-wood-dark
   id: TileWoodDark
   graph: TileWoodDark
   startNode: start
@@ -32,7 +32,7 @@
   objectType: Item
 
 - type: construction
-  name: light wood floor
+  name: tiles-wood-light
   id: TileWoodLight
   graph: TileWoodLight
   startNode: start
@@ -43,7 +43,7 @@
   objectType: Item
 
 - type: construction
-  name: red wood floor
+  name: tiles-wood-red
   id: TileWoodRed
   graph: TileWoodRed
   startNode: start
@@ -54,7 +54,7 @@
   objectType: Item
 
 - type: construction
-  name: large black wood floor
+  name: tiles-wood-large-black
   id: TileWoodLargeBlack
   graph: TileWoodLargeBlack
   startNode: start
@@ -65,7 +65,7 @@
   objectType: Item
 
 - type: construction
-  name: large dark wood floor
+  name: tiles-wood-large-dark
   id: TileWoodLargeDark
   graph: TileWoodLargeDark
   startNode: start
@@ -76,7 +76,7 @@
   objectType: Item
 
 - type: construction
-  name: large light wood floor
+  name: tiles-wood-large-light
   id: TileWoodLargeLight
   graph: TileWoodLargeLight
   startNode: start
@@ -87,7 +87,7 @@
   objectType: Item
 
 - type: construction
-  name: large red wood floor
+  name: tiles-wood-large-red
   id: TileWoodLargeRed
   graph: TileWoodLargeRed
   startNode: start
@@ -98,7 +98,7 @@
   objectType: Item
 
 - type: construction
-  name: parquet black wood floor
+  name: tiles-wood-parquet-black
   id: TileWoodParquetBlack
   graph: TileWoodParquetBlack
   startNode: start
@@ -109,7 +109,7 @@
   objectType: Item
 
 - type: construction
-  name: parquet dark wood floor
+  name: tiles-wood-parquet-dark
   id: TileWoodParquetDark
   graph: TileWoodParquetDark
   startNode: start
@@ -120,7 +120,7 @@
   objectType: Item
 
 - type: construction
-  name: parquet light wood floor
+  name: tiles-wood-parquet-light
   id: TileWoodParquetLight
   graph: TileWoodParquetLight
   startNode: start
@@ -131,7 +131,7 @@
   objectType: Item
 
 - type: construction
-  name: parquet red wood floor
+  name: tiles-wood-parquet-red
   id: TileWoodParquetRed
   graph: TileWoodParquetRed
   startNode: start
@@ -142,7 +142,7 @@
   objectType: Item
 
 - type: construction
-  name: chess wood floor
+  name: tiles-wood-chess
   id: TileWoodChess
   graph: TileWoodChess
   startNode: start
@@ -153,7 +153,7 @@
   objectType: Item
 
 - type: construction
-  name: chess black wood floor
+  name: tiles-wood-chess-black
   id: TileWoodChessBlack
   graph: TileWoodChessBlack
   startNode: start
@@ -164,7 +164,7 @@
   objectType: Item
 
 - type: construction
-  name: chess dark wood floor
+  name: tiles-wood-chess-dark
   id: TileWoodChessDark
   graph: TileWoodChessDark
   startNode: start
@@ -175,7 +175,7 @@
   objectType: Item
 
 - type: construction
-  name: chess light wood floor
+  name: tiles-wood-chess-light
   id: TileWoodChessLight
   graph: TileWoodChessLight
   startNode: start
@@ -186,7 +186,7 @@
   objectType: Item
 
 - type: construction
-  name: chess red wood floor
+  name: tiles-wood-chess-red
   id: TileWoodChessRed
   graph: TileWoodChessRed
   startNode: start
