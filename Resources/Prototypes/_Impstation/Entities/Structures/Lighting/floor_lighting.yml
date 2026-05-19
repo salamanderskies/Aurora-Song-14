@@ -1070,7 +1070,7 @@
         Heat: 1500 #dont map this
     popupText: powered-light-component-burn-hand
   - type: Contraband
-    severity: TierXContraband
+    severity: Class3Wizard
   - type: Destructible
     thresholds:
     - trigger:

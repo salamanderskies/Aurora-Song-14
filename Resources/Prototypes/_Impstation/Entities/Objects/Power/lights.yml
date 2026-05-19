@@ -39,7 +39,7 @@
     totalIntensity: 300
     canCreateVacuum: true
   - type: Contraband
-    severity: TierXContraband
+    severity: Class3Wizard
   - type: Destructible
     thresholds:
     - trigger:
