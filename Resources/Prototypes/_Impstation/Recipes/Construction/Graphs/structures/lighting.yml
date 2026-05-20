@@ -72,6 +72,24 @@
       steps:
       - allTags: [LightBulb, LightGreen]
         name: construction-graph-tag-light-bulb
+    # Aurora's Song edit start
+    - to: smallFloorLightSodium
+      steps:
+      - allTags: [LightBulb, LightSodium]
+        name: construction-graph-tag-light-bulb
+    - to: smallFloorLightExterior
+      steps:
+      - allTags: [LightBulb, LightExterior]
+        name: construction-graph-tag-light-bulb
+    - to: smallFloorLightBlueLed
+      steps:
+      - allTags: [LightBulb, LightBlueLed]
+        name: construction-graph-tag-light-bulb
+    - to: smallFloorLightMagentaLed
+      steps:
+      - allTags: [LightBulb, LightMagentaLed]
+        name: construction-graph-tag-light-bulb
+    # Aurora's Song edit end
 #tubes
     - to: floorLight
       steps:
@@ -129,6 +147,16 @@
       steps:
       - allTags: [LightTube, LightGreen]
         name: construction-graph-tag-light-tube
+    # Aurora's Song edit start
+    - to: FloorLightBlueLed
+      steps:
+      - allTags: [LightTube, LightBlueLed]
+        name: construction-graph-tag-light-tube
+    - to: FloorLightMagentaLed
+      steps:
+      - allTags: [LightTube, LightMagentaLed]
+        name: construction-graph-tag-light-tube
+    # Aurora's Song edit end
 #admeme (you can't get the tube with the proper tag in-game without admin intervention)
     - to: floorLightSun
       steps:
@@ -233,6 +261,22 @@
       steps:
       - remove: LightGreen
         name: construction-graph-tag-light-tube
+  # Aurora's Song edit start
+  - node: floorLightBlueLed
+    entity: PoweredFloorLightBlueLed
+    edges:
+    - to: metamorphicLightHole
+      steps:
+      - remove: LightBlueLed
+        name: construction-graph-tag-light-tube
+  - node: floorLightMagentaLed
+    entity: PoweredFloorLightMagentaLed
+    edges:
+    - to: metamorphicLightHole
+      steps:
+      - remove: LightMagentaLed
+        name: construction-graph-tag-light-tube
+  # Aurora's Song edit end
 #bulbs to hole
   - node: smallFloorLight
     entity: PoweredSmallFloorLight
@@ -318,6 +362,36 @@
       steps:
       - remove: LightGreen
         name: construction-graph-tag-light-bulb
+  # Aurora's Song edit start
+  - node: smallFloorLightSodium
+    entity: PoweredSmallFloorLightSodium
+    edges:
+    - to: metamorphicLightHole
+      steps:
+      - remove: LightSodium
+        name: construction-graph-tag-light-bulb
+  - node: smallFloorLightExterior
+    entity: PoweredSmallFloorLightExterior
+    edges:
+    - to: metamorphicLightHole
+      steps:
+      - remove: LightExterior
+        name: construction-graph-tag-light-bulb
+  - node: smallFloorLightBlueLed
+    entity: PoweredSmallFloorLightBlueLed
+    edges:
+    - to: metamorphicLightHole
+      steps:
+      - remove: LightBlueLed
+        name: construction-graph-tag-light-bulb
+  - node: smallFloorLightMagentaLed
+    entity: PoweredSmallFloorLightMagentaLed
+    edges:
+    - to: metamorphicLightHole
+      steps:
+      - remove: LightMagentaLed
+        name: construction-graph-tag-light-bulb
+  # Aurora's Song edit end
 #admemes
   - node: floorLightSun
     entity: SunFloorLight

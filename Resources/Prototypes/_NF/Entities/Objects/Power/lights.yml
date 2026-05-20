@@ -10,6 +10,7 @@
     tags:
     - LightUv
     - LightTube
+    - Trash
 
 - type: entity
   parent: LightBulb
@@ -26,6 +27,7 @@
     tags:
     - LightSodium
     - LightBulb
+    - Trash
 
 - type: entity
   parent: LightBulb
@@ -42,3 +44,4 @@
     tags:
     - LightExterior
     - LightBulb
+    - Trash

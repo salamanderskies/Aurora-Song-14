@@ -15,6 +15,7 @@
     PowerUse: 6 #LEDs are more power efficient than incandescent bulbs
   - type: Tag
     tags:
+    - LightBlueLed
     - LightBulb
     - Trash
   - type: PhysicalComposition
@@ -60,6 +61,11 @@
     lightSoftness: 0.9
     BurningTemperature: 350
     PowerUse: 12
+  - type: Tag
+    tags:
+    - LightBlueLed
+    - LightTube
+    - Trash
   - type: PhysicalComposition
     materialComposition:
       Glass: 25
@@ -107,6 +113,7 @@
     PowerUse: 6 #LEDs are more power efficient than incandescent bulbs
   - type: Tag
     tags:
+    - LightMagentaLed
     - LightBulb
     - Trash
   - type: PhysicalComposition
@@ -152,6 +159,11 @@
     lightSoftness: 0.9
     BurningTemperature: 350
     PowerUse: 12
+  - type: Tag
+    tags:
+    - LightMagentaLed
+    - LightTube
+    - Trash
   - type: PhysicalComposition
     materialComposition:
       Glass: 25

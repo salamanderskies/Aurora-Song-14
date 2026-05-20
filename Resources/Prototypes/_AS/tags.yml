@@ -111,3 +111,10 @@
 
 - type: Tag
   id: PowerCellAntique
+
+#region Lights
+- type: Tag
+  id: LightBlueLed
+
+- type: Tag
+  id: LightMagentaLed
