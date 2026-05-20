@@ -349,7 +349,7 @@
       broken: broken
       burned: burned
   - type: PoweredLight
-    hasLampOnSpawn: UvLightTube
+    hasLampOnSpawn: LightTubeUltraviolet # Aurora's Song
   - type: PointLight
     radius: 15
     energy: 1

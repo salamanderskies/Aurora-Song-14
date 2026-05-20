@@ -6,6 +6,10 @@
   components:
   - type: LightBulb
     color: "#5D0CED"
+  - type: Tag   # Aurora's Song
+    tags:
+    - LightUv
+    - LightTube
 
 - type: entity
   parent: LightBulb
@@ -18,6 +22,10 @@
     lightEnergy: 4
     lightRadius: 8
     lightSoftness: 0.7
+  - type: Tag   # Aurora's Song
+    tags:
+    - LightSodium
+    - LightBulb
 
 - type: entity
   parent: LightBulb
@@ -30,3 +38,7 @@
     lightEnergy: 4.5
     lightRadius: 8
     lightSoftness: 0.7
+  - type: Tag   # Aurora's Song
+    tags:
+    - LightExterior
+    - LightBulb
