@@ -148,11 +148,11 @@
       - allTags: [LightTube, LightGreen]
         name: construction-graph-tag-light-tube
     # Aurora's Song edit start
-    - to: FloorLightBlueLed
+    - to: floorLightBlueLed
       steps:
       - allTags: [LightTube, LightBlueLed]
         name: construction-graph-tag-light-tube
-    - to: FloorLightMagentaLed
+    - to: floorLightMagentaLed
       steps:
       - allTags: [LightTube, LightMagentaLed]
         name: construction-graph-tag-light-tube
