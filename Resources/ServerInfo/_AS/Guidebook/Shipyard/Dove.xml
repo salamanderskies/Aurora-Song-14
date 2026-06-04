@@ -1,0 +1,20 @@
+<Document>
+  # DOVE-CLASS EXPEDITION SHUTTLE
+  <Box>
+  <GuideEntityEmbed Entity="ClothingMaskGasExplorer"/>
+  <GuideEntityEmbed Entity="MechEmuCargo"/>
+  <GuideEntityEmbed Entity="CrateStorageRack"/>
+  <GuideEntityEmbed Entity="MobRandomCargoCorpse"/>
+  </Box>
+  <Box>
+  <GuideEntityEmbed Entity="ShuttleMapDove" Caption=""/>
+  </Box>
+    [color=#a4885c]Ship Size:[/color] Medium
+
+	[color=#a4885c]Recommended Crew:[/color] 2-4
+
+	[color=#a4885c]Power Gen Type:[/color] AME
+
+  "A versatile, expedition-capable light freighter."
+
+</Document>
