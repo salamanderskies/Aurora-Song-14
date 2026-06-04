@@ -4,8 +4,8 @@ meta:
   engineVersion: 270.1.0
   forkId: ""
   forkVersion: ""
-  time: 06/04/2026 13:26:59
-  entityCount: 1008
+  time: 06/04/2026 22:28:38
+  entityCount: 1023
 maps: []
 grids:
 - 1
@@ -3053,6 +3053,92 @@ entities:
     - type: Transform
       rot: -1.5707963267948966 rad
       pos: -0.33944583,6.60817
+      parent: 1
+- proto: EmergencyLight
+  entities:
+  - uid: 212
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: 3.5,6.5
+      parent: 1
+  - uid: 1009
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: -0.5,-5.5
+      parent: 1
+  - uid: 1010
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: 3.5,-5.5
+      parent: 1
+  - uid: 1011
+    components:
+    - type: Transform
+      pos: -4.5,-2.5
+      parent: 1
+  - uid: 1012
+    components:
+    - type: Transform
+      pos: 7.5,-2.5
+      parent: 1
+  - uid: 1013
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: -4.5,-0.5
+      parent: 1
+  - uid: 1014
+    components:
+    - type: Transform
+      pos: -0.5,1.5
+      parent: 1
+  - uid: 1015
+    components:
+    - type: Transform
+      pos: 3.5,1.5
+      parent: 1
+  - uid: 1016
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: 9.5,0.5
+      parent: 1
+  - uid: 1017
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: 12.5,3.5
+      parent: 1
+  - uid: 1018
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: 8.5,5.5
+      parent: 1
+  - uid: 1019
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: 5.5,2.5
+      parent: 1
+  - uid: 1021
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: -2.5,5.5
+      parent: 1
+  - uid: 1022
+    components:
+    - type: Transform
+      pos: -4.5,8.5
+      parent: 1
+  - uid: 1023
+    components:
+    - type: Transform
+      pos: 7.5,8.5
       parent: 1
 - proto: FaxMachineShip
   entities:
@@ -7139,12 +7225,6 @@ entities:
     - type: Transform
       pos: -1.5,-2.5
       parent: 1
-  - uid: 212
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: 4.5,5.5
-      parent: 1
   - uid: 216
     components:
     - type: Transform
@@ -7314,6 +7394,12 @@ entities:
     components:
     - type: Transform
       pos: 5.5,-1.5
+      parent: 1
+  - uid: 1020
+    components:
+    - type: Transform
+      rot: 1.5707963267948966 rad
+      pos: 4.5,5.5
       parent: 1
 - proto: WarpPoint
   entities:
