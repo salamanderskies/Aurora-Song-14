@@ -10,7 +10,7 @@
   id: SnakeLargeTail
   bodyPart: Tail
   markingCategory: Tail
-  speciesRestriction: [Reptilian, SlimePerson, IPC]
+  speciesRestriction: [Reptilian, IPC]      # Aurora's Song -- removed SlimePerson
   sprites:
   - sprite: _White/Mobs/Customization/reptilian_64x32.rsi
     state: snake_large

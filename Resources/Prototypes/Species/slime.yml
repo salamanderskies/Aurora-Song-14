@@ -44,7 +44,7 @@
       required: false
     # Aurora's Song Start - Buncha new stuff
     Tail:
-      points: 1
+      points: 2           # increased from 1 > 2
       required: false
 #    Wings:
 #      points: 1
