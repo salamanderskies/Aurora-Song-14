@@ -161,8 +161,7 @@
 - type: marking
   id: SlimeLizardTail
   bodyPart: Tail
-  markingCategory: Tail
-  speciesRestriction: [SlimePerson]
+  groupWhitelist: [Slime]
   sprites:
   - sprite: _AS/Mobs/Customization/Slime/lizardslime.rsi
     state:  slime-lizard
@@ -170,8 +169,7 @@
 - type: marking
   id: SlimeLizardSnake
   bodyPart: Tail
-  markingCategory: Tail
-  speciesRestriction: [SlimePerson]
+  groupWhitelist: [Slime]
   sprites:
   - sprite: _AS/Mobs/Customization/Slime/lizardslime.rsi
     state:  slime-snake
@@ -179,8 +177,7 @@
 - type: marking
   id: SlimeLizardSnakeLarge
   bodyPart: Tail
-  markingCategory: Tail
-  speciesRestriction: [SlimePerson]
+  groupWhitelist: [Slime]
   sprites:
   - sprite: _AS/Mobs/Customization/Slime/lizardslime64x32.rsi
     state:  slime-snake-large
@@ -189,8 +186,7 @@
 - type: marking
   id: SlimeVoxTail
   bodyPart: Tail
-  markingCategory: Tail
-  speciesRestriction: [SlimePerson]
+  groupWhitelist: [Slime]
   sprites:
   - sprite: _AS/Mobs/Customization/Slime/voxslime.rsi
     state:  slime-tail-vox
