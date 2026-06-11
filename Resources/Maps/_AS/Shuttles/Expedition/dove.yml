@@ -4,8 +4,8 @@ meta:
   engineVersion: 270.1.0
   forkId: ""
   forkVersion: ""
-  time: 06/04/2026 22:28:38
-  entityCount: 1023
+  time: 06/11/2026 22:51:08
+  entityCount: 1026
 maps: []
 grids:
 - 1
@@ -1523,6 +1523,12 @@ entities:
       rot: 3.141592653589793 rad
       pos: -3.5,7.5
       parent: 1
+  - uid: 1025
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: 10.5,2.5
+      parent: 1
 - proto: ButtonFrameGrey
   entities:
   - uid: 388
@@ -2694,6 +2700,14 @@ entities:
     components:
     - type: Transform
       pos: -0.5252464,7.9087844
+      parent: 1
+- proto: ClothingMaskGasMercenary
+  entities:
+  - uid: 1024
+    components:
+    - type: Transform
+      rot: -1.5707963267948966 rad
+      pos: -4.3050165,-5.2344365
       parent: 1
 - proto: ClothingShoesBootsMercenary
   entities:
@@ -4894,6 +4908,72 @@ entities:
       rot: 1.5707963267948966 rad
       pos: -0.5,7.5
       parent: 1
+- proto: LockableButtonCaptain
+  entities:
+  - uid: 1026
+    components:
+    - type: Transform
+      rot: 3.141592653589793 rad
+      pos: 10.5,2.5
+      parent: 1
+    - type: DeviceLinkSource
+      linkedPorts:
+        803:
+        - - Pressed
+          - Toggle
+        134:
+        - - Pressed
+          - Toggle
+        41:
+        - - Pressed
+          - Toggle
+        2:
+        - - Pressed
+          - Toggle
+        79:
+        - - Pressed
+          - Toggle
+        34:
+        - - Pressed
+          - Toggle
+        40:
+        - - Pressed
+          - Toggle
+        76:
+        - - Pressed
+          - Toggle
+        140:
+        - - Pressed
+          - Toggle
+        122:
+        - - Pressed
+          - Toggle
+        95:
+        - - Pressed
+          - Toggle
+        120:
+        - - Pressed
+          - Toggle
+        93:
+        - - Pressed
+          - Toggle
+        145:
+        - - Pressed
+          - Toggle
+        130:
+        - - Pressed
+          - Toggle
+        132:
+        - - Pressed
+          - Toggle
+        133:
+        - - Pressed
+          - Toggle
+        115:
+        - - Pressed
+          - Toggle
+    - type: Fixtures
+      fixtures: {}
 - proto: LockerSalvageSpecialistFilled
   entities:
   - uid: 294
@@ -6372,7 +6452,7 @@ entities:
     - type: Transform
       pos: -0.5,-1.5
       parent: 1
-- proto: SuitStorageMercenary
+- proto: SuitStorageEVAMercenary
   entities:
   - uid: 189
     components:
