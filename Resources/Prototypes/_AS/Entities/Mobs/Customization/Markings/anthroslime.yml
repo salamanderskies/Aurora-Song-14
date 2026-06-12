@@ -129,8 +129,8 @@
   bodyPart: HeadTop
   groupWhitelist: [Slime]
   sprites:
-  - sprite: _AS/Mobs/Customization/Slime/arachnidslime.rsi
-    state:  slime-curled
+  - sprite: _AS/Mobs/Customization/Slime/rodentiaslime32x48.rsi
+    state:  slime_rodentia_rabbit_ears_large
 
 # Arachnid slimes
 - type: marking
