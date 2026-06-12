@@ -114,6 +114,8 @@ public sealed partial class AdminVerbSystem
     private readonly EntProtoId _siliconMindRole = "MindRoleSiliconBrain";
     private const string SiliconLawBoundUserInterface = "SiliconLawBoundUserInterface";
 
+    private static readonly ProtoId<DamageTypePrototype> Blunt = "Blunt"; // Aurora's Song
+
     // All smite verbs have names so invokeverb works.
     private void AddSmiteVerbs(GetVerbsEvent<Verb> args)
     {
@@ -981,7 +983,7 @@ public sealed partial class AdminVerbSystem
             Icon = new SpriteSpecifier.Rsi(new("Interface/Actions/voice-mask.rsi"), "icon"),
             Act = () =>
             {
-                EnsureComp<BarkAccentComponent>(args.Target);
+                // EnsureComp<BarkAccentComponent>(args.Target); # Aurora's Song - Disable bark accent
                 EnsureComp<BleatingAccentComponent>(args.Target);
                 EnsureComp<FrenchAccentComponent>(args.Target);
                 EnsureComp<GermanAccentComponent>(args.Target);
@@ -1026,7 +1028,7 @@ public sealed partial class AdminVerbSystem
                     }
                 }
 
-                if (_prototypeManager.TryIndex<DamageTypePrototype>("Blunt", out var bluntProto))
+                if (_prototypeManager.TryIndex<DamageTypePrototype>(Blunt, out var bluntProto)) // Aurora's Song
                 {
                     var bluntDamage = new DamageSpecifier(bluntProto, 10);
                     _damageable.TryChangeDamage(args.Target, bluntDamage, true);
