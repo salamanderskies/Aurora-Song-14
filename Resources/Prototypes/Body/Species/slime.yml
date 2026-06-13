@@ -336,4 +336,8 @@
 - type: entity
   parent: [ OrganBaseEyes, OrganSlimePersonExternal]
   id: OrganSlimeEyes
+  components:
+  - type: VisualOrgan
+    data:
+      sprite: Mobs/Customization/eyes.rsi
 # Aurora's Song End
