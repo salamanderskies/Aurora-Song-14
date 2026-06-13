@@ -334,10 +334,10 @@
 
 # Aurora's Song Start
 - type: entity
-  parent: [ OrganBaseEyes, OrganSlimePersonExternal]
+  parent: [ OrganBaseEyes, OrganSlimePersonExternal ]
   id: OrganSlimeEyes
   components:
-  - type: VisualOrgan
-    data:
-      sprite: Mobs/Customization/eyes.rsi
+  - type: Sprite
+    layers:
+    - state: null
 # Aurora's Song End
