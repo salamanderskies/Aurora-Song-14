@@ -5,7 +5,7 @@
     # Aurora's Song Start
     enum.HumanoidVisualLayers.Eyes:
       limit: 1
-      required: false
+      required: true
       default: [SlimeEyes]
     # Aurora's Song End
     enum.HumanoidVisualLayers.Hair:
@@ -341,4 +341,5 @@
   - type: VisualOrgan
     data:
       sprite: null
+      state: null
 # Aurora's Song End

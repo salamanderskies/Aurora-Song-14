@@ -242,6 +242,7 @@
   - type: VisualOrgan
     data:
       sprite: null
+      state: null
 
 - type: entity
   parent: [ OrganBaseTongue, OrganArachnidInternal ]
