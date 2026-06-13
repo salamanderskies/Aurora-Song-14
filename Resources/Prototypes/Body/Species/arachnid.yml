@@ -238,6 +238,10 @@
 - type: entity
   parent: [ OrganArachnidVisual, OrganBaseEyes, OrganArachnidInternal ]
   id: OrganArachnidEyes
+  components: # Aurora's Song - Allow interchangeable eyes
+  - type: VisualOrgan
+    data:
+      sprite: null
 
 - type: entity
   parent: [ OrganBaseTongue, OrganArachnidInternal ]
