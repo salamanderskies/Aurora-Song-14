@@ -10,7 +10,7 @@
       required: false
     # Aurora's Song Start - Buncha new stuff
     enum.HumanoidVisualLayers.Tail:
-      limit: 1
+      limit: 2 # Aurora's Song - 1 > 2
       required: false
     enum.HumanoidVisualLayers.Head:
       limit: 1
