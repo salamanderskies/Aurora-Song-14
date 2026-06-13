@@ -6,6 +6,7 @@
     enum.HumanoidVisualLayers.Eyes:
       limit: 1
       required: false
+      default: [SlimeEyes]
     # Aurora's Song End
     enum.HumanoidVisualLayers.Hair:
       limit: 1
@@ -102,7 +103,7 @@
       FootLeft: OrganSlimePersonFootLeft
       FootRight: OrganSlimePersonFootRight
       Brain: OrganSlimePersonCore
-      Eyes: OrganSlimeEyes    # Aurora's Song
+      Eyes: OrganSlimeEyes # Aurora's Song
       Lungs: OrganSlimePersonLungs
   - type: HumanoidProfile
     species: SlimePerson
@@ -334,10 +335,10 @@
 
 # Aurora's Song Start
 - type: entity
-  parent: [ OrganBaseEyes, OrganSlimePersonExternal ]
+  parent: [ OrganBaseEyes, OrganSlimePerson, OrganHumanInternal, OrganSlimePersonExternal]
   id: OrganSlimeEyes
   components:
-  - type: Sprite
-    layers:
-    - state: null
+  - type: VisualOrgan
+    data:
+      sprite: null
 # Aurora's Song End
