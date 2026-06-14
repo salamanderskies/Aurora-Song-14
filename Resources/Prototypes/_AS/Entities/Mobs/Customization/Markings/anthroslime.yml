@@ -1,11 +1,19 @@
 # Base Markings
-- type: marking # Aurora's Song | Base head into Marking for custom heads
+- type: marking # Base head into Marking for custom heads
   id: SlimeHead
   bodyPart: Head
   groupWhitelist: [Slime]
   sprites:
   - sprite: Mobs/Species/Slime/parts.rsi
     state:  head
+
+- type: marking # Same with the eyes
+  id: SlimeEyes
+  bodyPart: Eyes
+  groupWhitelist: [Slime]
+  sprites:
+  - sprite: Mobs/Customization/eyes.rsi
+    state: eyes
 
 # Vulp Slimes
 - type: marking

@@ -1333,3 +1333,59 @@ Entries:
   id: 9529
   time: '2026-06-12T22:00:26.0000000+00:00'
   url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1061
+- author: salamanderskies
+  changes:
+    - type: Add
+      message: Slimes and Avali can select more Head (Side) markings.
+    - type: Fix
+      message: Slimes and Arachnids now have working eyes
+  id: 9530
+  time: '2026-06-13T03:53:10.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1131
+- author: ZigTag
+  changes:
+    - type: Fix
+      message: cargo computer and bounties should work again
+  id: 9531
+  time: '2026-06-14T02:07:24.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1140
+- author: ZigTag
+  changes:
+    - type: Tweak
+      message: it should now be more obvious whether a bounty is for medical or not
+  id: 9532
+  time: '2026-06-14T21:17:20.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1144
+- author: Zenixic
+  changes:
+    - type: Tweak
+      message: Replaced the Merc hardsuit on the Scorpion with an EVA suit.
+    - type: Tweak
+      message: >-
+        Redid pipes on the Scorpion, added cables under the whole AME, there is
+        now also cables running under the south blast doors.
+  id: 9533
+  time: '2026-06-14T21:46:01.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1138
+- author: salamanderskies
+  changes:
+    - type: Tweak
+      message: >-
+        Most species now have the same marking allotments for their heads,
+        chests, arms, and legs.
+    - type: Tweak
+      message: Slimes and arachnids can select multiple eye markings.
+    - type: Fix
+      message: >-
+        Humans can have tails again, and Vox no longer have access to DO NOT USE
+        markings.
+  id: 9534
+  time: '2026-06-14T22:39:44.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1141
+- author: Toasterblast
+  changes:
+    - type: Tweak
+      message: Medical pouches look slightly nicer now.
+  id: 9535
+  time: '2026-06-14T22:54:44.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1135
