@@ -4,8 +4,9 @@
   limits:
     # Aurora's Song Start
     enum.HumanoidVisualLayers.Eyes:
-      limit: 1
-      required: false
+      limit: 2
+      required: true
+      default: [SlimeEyes]
     # Aurora's Song End
     enum.HumanoidVisualLayers.Hair:
       limit: 1
@@ -339,5 +340,6 @@
   components:
   - type: VisualOrgan
     data:
-      sprite: Mobs/Customization/eyes.rsi
+      sprite: null
+      state: null
 # Aurora's Song End
