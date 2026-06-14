@@ -53,7 +53,7 @@
       required: true
       default: [ VoxRFootScales ]
     enum.HumanoidVisualLayers.Chest:
-      limit: 2
+      limit: 4 # Aurora's Song -- 2 > 4
       required: false
     enum.HumanoidVisualLayers.Tail:
       limit: 1
