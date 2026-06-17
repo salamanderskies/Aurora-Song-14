@@ -3,11 +3,11 @@
   <Box>
     <GuideEntityEmbed Entity="MercenaryTechFab"/>
     <GuideEntityEmbed Entity="OreProcessor"/>
-    <GuideEntityEmbed Entity="MedkitCombat" Caption= "(Not Included)"/>
+    <GuideEntityEmbed Entity="Medkit"/>
   </Box>
 
   <Box>
-    <GuideEntityEmbed Entity="ShuttleMapDove" Caption= ""/>
+    <GuideEntityEmbed Entity="ShuttleMapDove" Caption=""/>
   </Box>
 
   [color=#a4885c]Ship Size:[/color] Medium
@@ -32,6 +32,6 @@
 
   # Notes
 
-  *When replacing the DYS Dove's in-built AME, note that the [bold]Target Power[/bold] for the shuttle is [color=#a4885c]41[bold]kW[/bold][/color] baseline. Modifications to the DYS Dove may increase, or decrease this.
+  *When replacing the DYS Dove's in-built AME, note that the [bold]Target Power[/bold] for the shuttle is [color=#a4885c]41[bold]kW[/bold][/color] baseline. Modifications to the DYS Dove may increase or decrease this.
 
 </Document>
