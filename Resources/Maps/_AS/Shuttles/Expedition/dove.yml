@@ -4,8 +4,8 @@ meta:
   engineVersion: 272.0.0
   forkId: ""
   forkVersion: ""
-  time: 06/17/2026 10:43:51
-  entityCount: 1024
+  time: 06/18/2026 13:24:29
+  entityCount: 1039
 maps: []
 grids:
 - 1
@@ -475,8 +475,9 @@ entities:
           2,0:
             0: 63726
           2,1:
-            0: 2332
+            0: 284
             2: 8192
+            1: 2048
           2,2:
             2: 274
           2,-1:
@@ -484,10 +485,11 @@ entities:
             2: 8
             1: 128
           3,0:
-            0: 13312
-            1: 32
+            0: 12288
+            1: 1056
           3,1:
-            0: 1075
+            0: 51
+            1: 1024
           0,-3:
             0: 28672
           0,-2:
@@ -513,15 +515,16 @@ entities:
             1: 128
             0: 49152
           -3,0:
-            0: 18636
+            0: 2252
+            1: 16384
           -3,-2:
             2: 32768
           -2,-1:
             0: 61678
           -2,-2:
-            0: 60704
+            1: 296
+            0: 60416
             2: 4
-            1: 8
           -2,0:
             0: 3839
           -2,-3:
@@ -1314,6 +1317,81 @@ entities:
     components:
     - type: Transform
       pos: 3.5,10.5
+      parent: 1
+  - uid: 880
+    components:
+    - type: Transform
+      pos: 10.5,-5.5
+      parent: 1
+  - uid: 886
+    components:
+    - type: Transform
+      pos: -6.5,-6.5
+      parent: 1
+  - uid: 1027
+    components:
+    - type: Transform
+      pos: -7.5,-5.5
+      parent: 1
+  - uid: 1028
+    components:
+    - type: Transform
+      pos: -9.5,3.5
+      parent: 1
+  - uid: 1029
+    components:
+    - type: Transform
+      pos: -7.5,5.5
+      parent: 1
+  - uid: 1030
+    components:
+    - type: Transform
+      pos: -6.5,7.5
+      parent: 1
+  - uid: 1031
+    components:
+    - type: Transform
+      pos: -5.5,9.5
+      parent: 1
+  - uid: 1032
+    components:
+    - type: Transform
+      pos: -4.5,11.5
+      parent: 1
+  - uid: 1033
+    components:
+    - type: Transform
+      pos: 7.5,11.5
+      parent: 1
+  - uid: 1034
+    components:
+    - type: Transform
+      pos: 8.5,9.5
+      parent: 1
+  - uid: 1035
+    components:
+    - type: Transform
+      pos: 9.5,7.5
+      parent: 1
+  - uid: 1036
+    components:
+    - type: Transform
+      pos: 11.5,6.5
+      parent: 1
+  - uid: 1037
+    components:
+    - type: Transform
+      pos: 14.5,6.5
+      parent: 1
+  - uid: 1038
+    components:
+    - type: Transform
+      pos: 14.5,2.5
+      parent: 1
+  - uid: 1039
+    components:
+    - type: Transform
+      pos: 9.5,-6.5
       parent: 1
 - proto: Bed
   entities:
