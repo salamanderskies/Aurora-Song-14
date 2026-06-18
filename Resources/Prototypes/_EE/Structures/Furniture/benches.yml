@@ -11,7 +11,7 @@
     bodyType: Static
   - type: Transform
     anchored: true
-#  - type: Rotatable      Aurora's Song
+#  - type: Rotatable # Aurora's Song
   - type: Sprite
     state: middle
   - type: StaticPrice # Frontier
@@ -239,7 +239,7 @@
   components:
   - type: Transform
     anchored: true
-#  - type: Rotatable      Aurora's Song
+#  - type: Rotatable # Aurora's Song
   - type: Sprite
     sprite: _AS/Structures/Furniture/Benches/sofa.rsi # AS Edit
     state: corner
@@ -310,7 +310,7 @@
   components:
   - type: Transform
     anchored: true
-#  - type: Rotatable      Aurora's Song
+#  - type: Rotatable # Aurora's Song
   - type: Sprite
     sprite: _EE/Structures/Furniture/Benches/sofa_corp.rsi
     state: corner
