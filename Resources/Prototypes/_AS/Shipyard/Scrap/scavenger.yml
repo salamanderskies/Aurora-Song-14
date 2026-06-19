@@ -10,12 +10,12 @@
   id: Scavenger
   parent: BaseVessel
   name: XED Scavenger
-  description: MEAT.
-  price: 50000
+  description: An experiemental, expedition-worthy salvaging shuttle utilizing Xenomorph materials.
+  price: 97500 # ~75000 appraisal w/ 30% markup
   category: Medium
   group: Scrap
   shuttlePath: /Maps/_AS/Shuttles/Scrap/scavenger.yml
-  guidebookPage: null
+  guidebookPage: ShipyardScavenger
   class:
   - Scrapyard
   - Expedition

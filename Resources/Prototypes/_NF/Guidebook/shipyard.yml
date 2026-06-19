@@ -54,6 +54,7 @@
   - ShipyardProspector
   - ShipyardPulsar
   - ShipyardRetort
+  - ShipyardScavenger # Aurora's Song
   - ShipyardSearchlight
   - ShipyardSkipper
   - ShipyardSpirit
@@ -355,9 +356,14 @@
   name: guide-entry-shipyard-vitalis
   text: "/ServerInfo/_NF/Guidebook/Shipyard/Vitalis.xml" #Modified by Aurora Song
 
-#Aurora's Song 
+#Aurora's Song
 - type: guideEntry
   id: ShipyardDinghy
   name: guide-entry-shipyard-dinghy
   text: "/ServerInfo/_AS/Guidebook/Shipyard/Dinghy.xml"
+
+- type: guideEntry
+  id: ShipyardScavenger
+  name: guide-entry-shipyard-scavenger
+  text: "/ServerInfo/_AS/Guidebook/Shipyard/Scavenger.xml"
 #Aurora's Song end
