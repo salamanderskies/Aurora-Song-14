@@ -4,8 +4,8 @@ meta:
   engineVersion: 272.0.0
   forkId: ""
   forkVersion: ""
-  time: 06/19/2026 16:29:08
-  entityCount: 926
+  time: 06/19/2026 18:03:37
+  entityCount: 927
 maps: []
 grids:
 - 1
@@ -4617,6 +4617,13 @@ entities:
     components:
     - type: Transform
       pos: 6.5,2.5
+      parent: 1
+- proto: NFHolopadShip
+  entities:
+  - uid: 927
+    components:
+    - type: Transform
+      pos: 0.5,17.5
       parent: 1
 - proto: NitrogenCanister
   entities:
