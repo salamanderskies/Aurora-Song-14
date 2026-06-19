@@ -1,0 +1,44 @@
+# Author Info
+# GitHub: SalamanderSkies
+# Discord: SalamanderSkies
+
+# Maintainer Info
+# GitHub: SalamanderSkies
+# Discord: SalamanderSkies
+
+- type: vessel
+  id: Scavenger
+  parent: BaseVessel
+  name: XED Scavenger
+  description: MEAT.
+  price: 50000
+  category: Medium
+  group: Scrap
+  shuttlePath: /Maps/_AS/Shuttles/Scrap/scavenger.yml
+  guidebookPage: null
+  class:
+  - Scrapyard
+  - Expedition
+  - Salvage
+  engine:
+  - AME
+
+- type: gameMap
+  id: Scavenger
+  mapName: 'XED Scavenger'
+  mapPath: /Maps/_AS/Shuttles/Scrap/scavenger.yml
+  minPlayers: 0
+  stations:
+    Scavenger:
+      stationProto: StandardFrontierExpeditionVessel
+      components:
+      - type: StationNameSetup
+        mapNameTemplate: 'Scavenger {1}'
+        nameGenerator:
+          !type:NanotrasenNameGenerator
+          prefixCreator: '14'
+      - type: StationJobs
+        availableJobs:
+          ContractorInterview: [ 0, 0 ]
+          PilotInterview: [ 0, 0 ]
+          MercenaryInterview: [ 0, 0 ]
