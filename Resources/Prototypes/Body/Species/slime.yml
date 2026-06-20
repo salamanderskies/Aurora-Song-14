@@ -4,7 +4,7 @@
   limits:
     # Aurora's Song Start
     enum.HumanoidVisualLayers.Eyes:
-      limit: 1
+      limit: 2
       required: true
       default: [SlimeEyes]
     # Aurora's Song End
@@ -16,7 +16,7 @@
       required: false
     # Aurora's Song Start - Buncha new stuff
     enum.HumanoidVisualLayers.Tail:
-      limit: 1
+      limit: 2 # Aurora's Song - 1 > 2
       required: false
     enum.HumanoidVisualLayers.Head:
       limit: 1
@@ -33,28 +33,28 @@
       limit: 4 # imp 2<4
       required: false
     enum.HumanoidVisualLayers.LArm:
-      limit: 8 # Aurora: 1>8
+      limit: 4 # Aurora: 1>4
       required: false
     enum.HumanoidVisualLayers.RArm:
-      limit: 8 # Aurora: 1>8
+      limit: 4 # Aurora: 1>4
       required: false
     enum.HumanoidVisualLayers.LHand:
-      limit: 8 # Aurora: 1>8
+      limit: 4 # Aurora: 1>4
       required: false
     enum.HumanoidVisualLayers.RHand:
-      limit: 8 # Aurora: 1>8
+      limit: 4 # Aurora: 1>4
       required: false
     enum.HumanoidVisualLayers.LLeg:
-      limit: 8 # Aurora: 1>8
+      limit: 4 # Aurora: 1>4
       required: false
     enum.HumanoidVisualLayers.RLeg:
-      limit: 8 # Aurora: 1>8
+      limit: 4 # Aurora: 1>4
       required: false
     enum.HumanoidVisualLayers.LFoot:
-      limit: 8 # Aurora: 1>8
+      limit: 4 # Aurora: 1>4
       required: false
     enum.HumanoidVisualLayers.RFoot:
-      limit: 8 # Aurora: 1>8
+      limit: 4 # Aurora: 1>4
       required: false
   appearances:
     enum.HumanoidVisualLayers.Head:
