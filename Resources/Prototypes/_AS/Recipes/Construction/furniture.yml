@@ -99,19 +99,6 @@
     - !type:TileNotBlocked
 
 # N14 multi-tile tables
-- type: construction
-  id: N14TableDeskWood
-  graph: N14TableMulti
-  startNode: start
-  targetNode: TableDeskWood
-  category: construction-category-furniture
-  objectType: Structure
-  placementMode: SnapgridCenter
-  canBuildInImpassable: false
-  hide: false
-  canRotate: true
-  conditions:
-    - !type:TileNotBlocked
 
 - type: construction
   id: N14TableCasinoCards
