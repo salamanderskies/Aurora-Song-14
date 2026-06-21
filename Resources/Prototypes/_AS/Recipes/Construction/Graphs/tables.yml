@@ -10,7 +10,6 @@
         - to: TableCounterBar
           completed:
             - !type:SnapToGrid
-             southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -22,7 +21,6 @@
         - to: TableWoodRound
           completed:
             - !type:SnapToGrid
-             southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -34,7 +32,6 @@
         - to: TableWoodSquare
           completed:
             - !type:SnapToGrid
-             southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -46,7 +43,6 @@
         - to: TableWoodStand
           completed:
             - !type:SnapToGrid
-             southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -56,7 +52,6 @@
         - to: TableWoodCabledrum
           completed:
             - !type:SnapToGrid
-             southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -66,7 +61,6 @@
         - to: TableWoodSettler
           completed:
             - !type:SnapToGrid
-              southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -165,7 +159,6 @@
         - to: TableMetalGrate
           completed:
             - !type:SnapToGrid
-              southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -222,7 +215,6 @@
         - to: TableDeskWood
           completed:
             - !type:SnapToGrid
-              southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -234,7 +226,6 @@
         - to: TableCasinoCards
           completed:
             - !type:SnapToGrid
-              southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -248,7 +239,6 @@
         - to: TableCasinoPool
           completed:
             - !type:SnapToGrid
-              southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -262,7 +252,6 @@
         - to: TableWoodenOvalWide
           completed:
             - !type:SnapToGrid
-              southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -274,7 +263,6 @@
         - to: TableWoodenSquareWide
           completed:
             - !type:SnapToGrid
-              southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -286,7 +274,6 @@
         - to: TableMetalWide
           completed:
             - !type:SnapToGrid
-              southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -298,7 +285,6 @@
         - to: TableCounter
           completed:
             - !type:SnapToGrid
-              southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -310,7 +296,6 @@
         - to: TableCounterBend
           completed:
             - !type:SnapToGrid
-              southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -322,7 +307,6 @@
         - to: TableCounterIntersect
           completed:
             - !type:SnapToGrid
-              southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -346,7 +330,6 @@
         - to: TableCounterCraft
           completed:
             - !type:SnapToGrid
-              southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -358,7 +341,6 @@
         - to: TableCounterCraftBend
           completed:
             - !type:SnapToGrid
-              southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -370,7 +352,6 @@
         - to: TableCounterCraftIntersect
           completed:
             - !type:SnapToGrid
-              southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -394,7 +375,6 @@
         - to: TableCounterMetal
           completed:
             - !type:SnapToGrid
-              southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -406,7 +386,6 @@
         - to: TableCounterMetalBend
           completed:
             - !type:SnapToGrid
-              southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:
@@ -418,7 +397,6 @@
         - to: TableCounterMetalIntersect
           completed:
             - !type:SnapToGrid
-              southRotation: true
           conditions:
             - !type:EntityAnchored {}
           steps:

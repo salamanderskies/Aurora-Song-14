@@ -8,7 +8,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalHollow
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemMetalBlue
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -22,7 +22,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalSolid
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemMetalBlueSolid
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -36,7 +36,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalHollow
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemMetalGreen
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -50,7 +50,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalSolid
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemMetalGreenSolid
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -64,7 +64,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalHollow
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemMetalGrey
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -78,7 +78,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalSolid
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemMetalGreySolid
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -92,7 +92,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalHollow
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemMetalGreyDark
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -106,7 +106,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalSolid
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemMetalGreyDarkSolid
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -120,7 +120,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalHollow
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemMetalPurple
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -134,7 +134,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalSolid
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemMetalPurpleSolid
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -148,7 +148,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalHollow
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemMetalRed
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -162,7 +162,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalSolid
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemMetalRedSolid
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -176,7 +176,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalHollow
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemMetalTeal
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -190,7 +190,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalSolid
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemMetalTealSolid
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -204,7 +204,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalHollow
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemMetalWhite
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -218,7 +218,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalSolid
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemMetalWhiteSolid
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -232,7 +232,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalHollow
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemMetalYellow
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -247,7 +247,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalSolid
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemMetalYellowSolid
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -261,7 +261,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalHollow
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemMetalFreezer
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -275,7 +275,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalHollow
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -288,7 +288,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepMetalHollow
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -303,7 +303,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -320,7 +320,7 @@
   itemDrop: FloorTileItemMetalIndustrial
   footstepSounds:
     collection: N14FootstepMetalHollow
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -336,7 +336,7 @@
   itemDrop: FloorTileItemMetalMS13
   footstepSounds:
     collection: N14FootstepMetalHollow
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -352,7 +352,7 @@
   itemDrop: FloorTileItemMetalGrate
   footstepSounds:
     collection: N14FootstepMetalHollow
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -368,7 +368,7 @@
   itemDrop: FloorTileItemMetalSolid
   footstepSounds:
     collection: N14FootstepMetalSolid
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -384,7 +384,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepWood
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemWoodOak
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -400,7 +400,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepWood
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -415,7 +415,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepWood
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemWoodHouse
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -431,7 +431,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepWood
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -446,7 +446,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepWood
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -461,7 +461,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepWood
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemWoodMaple
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -478,7 +478,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepWood
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   # itemDrop: FloorTileItemWoodMaple
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -494,7 +494,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepWood
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   # itemDrop: FloorTileItemWoodMaple
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -510,7 +510,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepWood
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   # itemDrop: FloorTileItemWoodMaple
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -526,7 +526,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepWood
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   # itemDrop: FloorTileItemWoodMaple
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -542,7 +542,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepWood
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   # itemDrop: FloorTileItemWoodMaple
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -558,7 +558,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepWood
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   # itemDrop: FloorTileItemWoodMaple
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -574,7 +574,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepWood
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   # itemDrop: FloorTileItemWoodMaple
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -590,7 +590,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: N14FootstepWood
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   # itemDrop: FloorTileItemWoodMaple
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -605,7 +605,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: FootstepCarpet
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   itemDrop: FloorTileItemCarpetRed
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -620,7 +620,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: FootstepCarpet
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   # itemDrop: FloorTileItemCarpetRed
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -634,7 +634,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: FootstepCarpet
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   # itemDrop: FloorTileItemCarpetRed
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -648,7 +648,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: FootstepCarpet
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   # itemDrop: FloorTileItemCarpetRed
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -662,7 +662,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: FootstepCarpet
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   # itemDrop: FloorTileItemCarpetRed
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -676,7 +676,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: FootstepCarpet
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   # itemDrop: FloorTileItemCarpetRed
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -690,7 +690,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: FootstepCarpet
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   # itemDrop: FloorTileItemCarpetRed
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -704,7 +704,7 @@
   deconstructTools: [ Prying ]
   footstepSounds:
     collection: FootstepCarpet
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   # itemDrop: FloorTileItemCarpetRed
   thermalConductivity: 0.04
   heatCapacity: 10000
@@ -721,7 +721,7 @@
   isSubfloor: true
   footstepSounds:
     collection: N14FootstepConcrete
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -734,7 +734,7 @@
   isSubfloor: true
   footstepSounds:
     collection: N14FootstepConcrete
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -747,7 +747,7 @@
   isSubfloor: true
   footstepSounds:
     collection: N14FootstepConcrete
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -760,7 +760,7 @@
   isSubfloor: true
   footstepSounds:
     collection: N14FootstepConcrete
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -772,7 +772,7 @@
   isSubfloor: true
   footstepSounds:
     collection: N14FootstepConcrete
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -786,7 +786,7 @@
   isSubfloor: true
   footstepSounds:
     collection: N14FootstepConcrete
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -801,7 +801,7 @@
   isSubfloor: true
   footstepSounds:
     collection: N14FootstepConcrete
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -816,7 +816,7 @@
   isSubfloor: true
   footstepSounds:
     collection: N14FootstepConcreteBroken
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -830,7 +830,7 @@
   isSubfloor: true
   footstepSounds:
     collection: N14FootstepConcreteBroken
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
 
@@ -843,7 +843,7 @@
   isSubfloor: true
   footstepSounds:
     collection: N14FootstepConcreteBroken
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -855,7 +855,7 @@
   isSubfloor: true
   footstepSounds:
     collection: N14FootstepConcrete
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -867,7 +867,7 @@
   isSubfloor: true
   footstepSounds:
     collection: N14FootstepConcrete
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -879,7 +879,7 @@
   isSubfloor: true
   footstepSounds:
     collection: N14FootstepConcrete
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -891,7 +891,7 @@
   isSubfloor: true
   footstepSounds:
     collection: N14FootstepConcrete
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -905,7 +905,7 @@
   isSubfloor: true
   footstepSounds:
     collection: N14FootstepConcrete
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -918,7 +918,7 @@
   isSubfloor: false
   footstepSounds:
     collection: N14FootstepConcrete
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -930,7 +930,7 @@
   isSubfloor: false
   footstepSounds:
     collection: N14FootstepConcrete
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -944,7 +944,7 @@
   isSubfloor: false
   footstepSounds:
     collection: N14FootstepConcreteBroken
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -958,7 +958,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -972,7 +972,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -986,7 +986,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1000,7 +1000,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1014,7 +1014,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1028,7 +1028,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1040,7 +1040,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1054,7 +1054,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1068,7 +1068,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1082,7 +1082,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1096,7 +1096,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1110,7 +1110,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1124,7 +1124,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1138,7 +1138,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1152,7 +1152,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1166,7 +1166,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1180,7 +1180,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1194,7 +1194,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1208,7 +1208,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1222,7 +1222,7 @@
   isSubfloor: false
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1235,7 +1235,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1247,7 +1247,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1259,7 +1259,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1271,7 +1271,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1283,7 +1283,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1295,7 +1295,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1307,7 +1307,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1319,7 +1319,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1331,7 +1331,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1343,7 +1343,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1355,7 +1355,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1367,7 +1367,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1379,7 +1379,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1391,7 +1391,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1403,7 +1403,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1415,7 +1415,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1427,7 +1427,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1439,7 +1439,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1451,7 +1451,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1463,7 +1463,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1475,7 +1475,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1487,7 +1487,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1499,7 +1499,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1511,7 +1511,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1523,7 +1523,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1535,7 +1535,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1547,7 +1547,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1559,7 +1559,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1571,7 +1571,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1583,7 +1583,7 @@
   isSubfloor: true
   footstepSounds:
     collection: FootstepFloor
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
@@ -1598,7 +1598,7 @@
   isSubfloor: true
   footstepSounds:
     collection: N14FootstepDirt
-  friction: 0.30
+  # friction: 0.30    Aurora's Song - Make them not slippy
   thermalConductivity: 0.04
   heatCapacity: 10000
   weather: true
