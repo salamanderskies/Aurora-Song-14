@@ -569,4 +569,4 @@
     sprite: _Nuclear14/Structures/Furniture/Tables/barcounter.rsi
   - type: Construction
     graph: N14TableWood # Aurora's Song - N14TableCounterBarRecipes > N14TableWood
-    node: TableWoodBar # Aurora's Song - start > TableWoodBar
+    node: TableCounterBar # Aurora's Song - start > TableCounterBar
