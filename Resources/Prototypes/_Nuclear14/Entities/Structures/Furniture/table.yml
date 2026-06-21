@@ -261,11 +261,6 @@
   - type: Sprite
     sprite: _Nuclear14/Structures/Furniture/64x64_furniture.rsi
     state: desk_wood
-  # Aurora's Song Start
-  - type: Construction
-    graph: N14TableMulti
-    node: TableDeskWood
-  # Aurora's Song End
 
 - type: entity
   parent: N14TableDeskSchool
