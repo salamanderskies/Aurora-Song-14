@@ -32,21 +32,21 @@
     - !type:TileNotBlocked
   hide: false
 
-- type: construction
-  id: N14MedicalBed
-  graph: bed
-  startNode: start
-  targetNode: medicalbed
-  category: construction-category-furniture
-  #   icon:           # Aurora's Song
-  #     sprite: Structures/Furniture/furniture.rsi
-  #     state: bed-MED
-  objectType: Structure
-  placementMode: SnapgridCenter
-  canBuildInImpassable: false
-  conditions:
-    - !type:TileNotBlocked
-  hide: false
+#- type: construction   Aurora's Song - Duplicate of upstream medbed recipe
+#  id: N14MedicalBed
+#  graph: bed
+#  startNode: start
+#  targetNode: medicalbed
+#  category: construction-category-furniture
+#  #   icon:           # Aurora's Song
+#  #     sprite: Structures/Furniture/furniture.rsi
+#  #     state: bed-MED
+#  objectType: Structure
+#  placementMode: SnapgridCenter
+#  canBuildInImpassable: false
+#  conditions:
+#    - !type:TileNotBlocked
+#  hide: false
 
 - type: construction
   id: N14Bedroll
