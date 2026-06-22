@@ -3313,7 +3313,6 @@ entities:
       pos: -1.5,1.5
       parent: 3
     - type: Door
-      secondsUntilStateChange: -80134.31
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -3334,7 +3333,6 @@ entities:
       pos: -8.5,-14.5
       parent: 3
     - type: Door
-      secondsUntilStateChange: -147355.17
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
@@ -3498,7 +3496,6 @@ entities:
       pos: 2.5,31.5
       parent: 3
     - type: Door
-      secondsUntilStateChange: -94916.55
       state: Opening
     - type: DeviceLinkSource
       lastSignals:
