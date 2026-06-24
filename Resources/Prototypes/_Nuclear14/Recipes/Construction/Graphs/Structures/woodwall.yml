@@ -3,6 +3,8 @@
   start: start
   graph:
     - node: start
+      actions:
+        - !type:DestroyEntity {}
       edges:
         - to: Frame
           completed:
