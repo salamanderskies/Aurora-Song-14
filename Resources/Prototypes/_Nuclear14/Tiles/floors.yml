@@ -331,7 +331,7 @@
     collection: N14FootstepMetalHollow
   # friction: 0.30 - Aurora's Song
   # thermalConductivity: 0.04 - Aurora's Song
-  heatCapacity: 10000 - Aurora's Song
+  heatCapacity: 10000
   # weather: true - Aurora's Song
 
 - type: tile
