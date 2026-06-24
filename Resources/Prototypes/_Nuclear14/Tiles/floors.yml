@@ -276,9 +276,8 @@
 
 - type: tile
   id: FloorMetalYellowSolid
-  name: tile- tiles-n14-metal-yellow-solid
-  parent: BaseStationTile # Aurora's Song
   name: tile-FloorMetalYellowSolid # Aurora's Song
+  parent: BaseStationTile # Aurora's Song
   sprite: /Textures/_Nuclear14/Tiles/metalyellowsolid.png
   # baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
   # isSubfloor: false - Aurora's Song
