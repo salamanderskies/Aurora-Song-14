@@ -3312,11 +3312,6 @@ entities:
     - type: Transform
       pos: -1.5,1.5
       parent: 3
-    - type: Door
-      state: Opening
-    - type: DeviceLinkSource
-      lastSignals:
-        DoorStatus: True
   - uid: 289
     components:
     - type: Transform
@@ -3332,11 +3327,6 @@ entities:
     - type: Transform
       pos: -8.5,-14.5
       parent: 3
-    - type: Door
-      state: Opening
-    - type: DeviceLinkSource
-      lastSignals:
-        DoorStatus: True
   - uid: 626
     components:
     - type: Transform
@@ -3495,11 +3485,6 @@ entities:
     - type: Transform
       pos: 2.5,31.5
       parent: 3
-    - type: Door
-      state: Opening
-    - type: DeviceLinkSource
-      lastSignals:
-        DoorStatus: True
   - uid: 2651
     components:
     - type: Transform
