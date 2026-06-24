@@ -535,146 +535,138 @@
 # MS13 wood
 - type: tile
   id: FloorMS13WoodCommon
-  parent: BaseStationTile # Aurora's Song
   name: tile-FloorMS13WoodCommon # Aurora's Song
   sprite: /Textures/_Nuclear14/Tiles/ms13/Wood/wood_common.png
   variants: 4
   placementVariants: [0, 1, 2, 3]
-  # baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
-  # isSubfloor: false - Aurora's Song
+  baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
+  isSubfloor: false
   # deconstructTools: [ Prying ] - Aurora's Song
   footstepSounds:
     collection: N14FootstepWood
   # friction: 0.30 - Aurora's Song
   # itemDrop: FloorTileItemWoodMaple
-  # thermalConductivity: 0.04 - Aurora's Song
-  # heatCapacity: 10000 - Aurora's Song
+  thermalConductivity: 0.04
+  heatCapacity: 10000
   # weather: true - Aurora's Song
 
 - type: tile
   id: FloorMS13WoodCommonDamaged
-  parent: BaseStationTile # Aurora's Song
   name: tile-FloorMS13WoodCommonDamaged # Aurora's Song
   sprite: /Textures/_Nuclear14/Tiles/ms13/Wood/wood_common_damaged.png
   variants: 4
   placementVariants: [0, 1, 2, 3]
-  # baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
-  # isSubfloor: false - Aurora's Song
+  baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
+  isSubfloor: false
   # deconstructTools: [ Prying ] - Aurora's Song
   footstepSounds:
     collection: N14FootstepWood
   # friction: 0.30 - Aurora's Song
   # itemDrop: FloorTileItemWoodMaple
-  # thermalConductivity: 0.04 - Aurora's Song
-  # heatCapacity: 10000 - Aurora's Song
+  thermalConductivity: 0.04
+  heatCapacity: 10000
   # weather: true - Aurora's Song
 
 - type: tile
   id: FloorMS13WoodFancy
-  parent: BaseStationTile # Aurora's Song
   name: tile-FloorMS13WoodFancy # Aurora's Song
   sprite: /Textures/_Nuclear14/Tiles/ms13/Wood/wood_fancy.png
   variants: 4
   placementVariants: [0, 1, 2, 3]
-  # baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
-  # isSubfloor: false - Aurora's Song
+  baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
+  isSubfloor: false
   # deconstructTools: [ Prying ] - Aurora's Song
   footstepSounds:
     collection: N14FootstepWood
   # friction: 0.30 - Aurora's Song
   # itemDrop: FloorTileItemWoodMaple
-  # thermalConductivity: 0.04 - Aurora's Song
-  # heatCapacity: 10000 - Aurora's Song
+  thermalConductivity: 0.04
+  heatCapacity: 10000
   # weather: true - Aurora's Song
 
 - type: tile
   id: FloorMS13WoodFancyDamaged
-  parent: BaseStationTile # Aurora's Song
   name: tile-FloorMS13WoodFancyDamaged # Aurora's Song
   sprite: /Textures/_Nuclear14/Tiles/ms13/Wood/wood_fancy_damaged.png
   variants: 4
   placementVariants: [0, 1, 2, 3]
-  # baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
-  # isSubfloor: false - Aurora's Song
+  baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
+  isSubfloor: false
   # deconstructTools: [ Prying ] - Aurora's Song
   footstepSounds:
     collection: N14FootstepWood
   # friction: 0.30 - Aurora's Song
   # itemDrop: FloorTileItemWoodMaple
-  # thermalConductivity: 0.04 - Aurora's Song
-  # heatCapacity: 10000 - Aurora's Song
+  thermalConductivity: 0.04
+  heatCapacity: 10000
   # weather: true - Aurora's Song
 
 - type: tile
   id: FloorMS13WoodMosaic
-  parent: BaseStationTile # Aurora's Song
   name: tile-FloorMS13WoodMosaic # Aurora's Song
   sprite: /Textures/_Nuclear14/Tiles/ms13/Wood/wood_mosaic.png
   variants: 4
   placementVariants: [0, 1, 2, 3]
-  # baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
-  # isSubfloor: false - Aurora's Song
+  baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
+  isSubfloor: false
   # deconstructTools: [ Prying ] - Aurora's Song
   footstepSounds:
     collection: N14FootstepWood
   # friction: 0.30 - Aurora's Song
   # itemDrop: FloorTileItemWoodMaple
-  # thermalConductivity: 0.04 - Aurora's Song
-  # heatCapacity: 10000 - Aurora's Song
+  thermalConductivity: 0.04
+  heatCapacity: 10000
   # weather: true - Aurora's Song
 
 - type: tile
   id: FloorMS13WoodMosaicDamaged
-  parent: BaseStationTile # Aurora's Song
   name: tile-FloorMS13WoodMosaicDamaged # Aurora's Song
   sprite: /Textures/_Nuclear14/Tiles/ms13/Wood/wood_mosaic_damaged.png
   variants: 4
   placementVariants: [0, 1, 2, 3]
-  # baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
-  # isSubfloor: false - Aurora's Song
+  baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
+  isSubfloor: false
   # deconstructTools: [ Prying ] - Aurora's Song
   footstepSounds:
     collection: N14FootstepWood
   # friction: 0.30 - Aurora's Song
   # itemDrop: FloorTileItemWoodMaple
-  # thermalConductivity: 0.04 - Aurora's Song
-  # heatCapacity: 10000 - Aurora's Song
+  thermalConductivity: 0.04
+  heatCapacity: 10000
   # weather: true - Aurora's Song
 
 - type: tile
   id: FloorMS13WoodWide
-  parent: BaseStationTile # Aurora's Song
   name: tile-FloorMS13WoodWide # Aurora's Song
   sprite: /Textures/_Nuclear14/Tiles/ms13/Wood/wood_wide.png
   variants: 4
   placementVariants: [0, 1, 2, 3]
-  # baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
-  # isSubfloor: false - Aurora's Song
+  baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
+  isSubfloor: false
   # deconstructTools: [ Prying ] - Aurora's Song
   footstepSounds:
     collection: N14FootstepWood
   # friction: 0.30 - Aurora's Song
   # itemDrop: FloorTileItemWoodMaple
-  # thermalConductivity: 0.04 - Aurora's Song
-  # heatCapacity: 10000 - Aurora's Song
+  thermalConductivity: 0.04
+  heatCapacity: 10000
   # weather: true - Aurora's Song
 
 - type: tile
   id: FloorMS13WoodWideDamaged
-  parent: BaseStationTile # Aurora's Song
   name: tile-FloorMS13WoodWideDamaged # Aurora's Song
   sprite: /Textures/_Nuclear14/Tiles/ms13/Wood/wood_wide_damaged.png
   variants: 4
   placementVariants: [0, 1, 2, 3]
-  # baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
-  # isSubfloor: false - Aurora's Song
+  baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
+  isSubfloor: false
   # deconstructTools: [ Prying ] - Aurora's Song
   footstepSounds:
     collection: N14FootstepWood
   # friction: 0.30 - Aurora's Song
   # itemDrop: FloorTileItemWoodMaple
-  # thermalConductivity: 0.04 - Aurora's Song
-  # heatCapacity: 10000 - Aurora's Song
+  thermalConductivity: 0.04
+  heatCapacity: 10000
   # weather: true - Aurora's Song
 
 # Carpet
@@ -697,114 +689,107 @@
 # MS13 Carpet
 - type: tile
   id: FloorMS13CarpetRed
-  parent: BaseStationTile # Aurora's Song
   name: tile-FloorMS13CarpetRed # Aurora's Song
   sprite: /Textures/_Nuclear14/Tiles/ms13/Carpet/carpet_red.png
-  # baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
-  # isSubfloor: false - Aurora's Song
+  baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
+  isSubfloor: false
   # deconstructTools: [ Prying ] - Aurora's Song
   footstepSounds:
     collection: FootstepCarpet
   # friction: 0.30 - Aurora's Song
   # itemDrop: FloorTileItemCarpetRed
-  # thermalConductivity: 0.04 - Aurora's Song
-  # heatCapacity: 10000 - Aurora's Song
+  thermalConductivity: 0.04
+  heatCapacity: 10000
   # weather: true - Aurora's Song
 
 - type: tile
   id: FloorMS13CarpetFancyRed
-  parent: BaseStationTile # Aurora's Song
   name: tile-FloorMS13CarpetFancyRed # Aurora's Song
   sprite: /Textures/_Nuclear14/Tiles/ms13/Carpet/carpet_fancy_red.png
-  # baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
-  # isSubfloor: false - Aurora's Song
+  baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
+  isSubfloor: false
   # deconstructTools: [ Prying ] - Aurora's Song
   footstepSounds:
     collection: FootstepCarpet
   # friction: 0.30 - Aurora's Song
   # itemDrop: FloorTileItemCarpetRed
-  # thermalConductivity: 0.04 - Aurora's Song
-  # heatCapacity: 10000 - Aurora's Song
+  thermalConductivity: 0.04
+  heatCapacity: 10000
   # weather: true - Aurora's Song
 
 - type: tile
   id: FloorMS13CarpetBlue
-  parent: BaseStationTile # Aurora's Song
   name: tile-FloorMS13CarpetBlue # Aurora's Song
   sprite: /Textures/_Nuclear14/Tiles/ms13/Carpet/carpet_blue.png
-  # baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
-  # isSubfloor: false - Aurora's Song
+  baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
+  isSubfloor: false
   # deconstructTools: [ Prying ] - Aurora's Song
   footstepSounds:
     collection: FootstepCarpet
   # friction: 0.30 - Aurora's Song
   # itemDrop: FloorTileItemCarpetRed
-  # thermalConductivity: 0.04 - Aurora's Song
-  # heatCapacity: 10000 - Aurora's Song
+  thermalConductivity: 0.04
+  heatCapacity: 10000
   # weather: true - Aurora's Song
 
 - type: tile
   id: FloorMS13CarpetFancyBlue
-  parent: BaseStationTile # Aurora's Song
   name: tile-FloorMS13CarpetFancyBlue # Aurora's Song
   sprite: /Textures/_Nuclear14/Tiles/ms13/Carpet/carpet_fancy_blue.png
-  # baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
-  # isSubfloor: false - Aurora's Song
+  baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
+  isSubfloor: false
   # deconstructTools: [ Prying ] - Aurora's Song
   footstepSounds:
     collection: FootstepCarpet
   # friction: 0.30 - Aurora's Song
   # itemDrop: FloorTileItemCarpetRed
-  # thermalConductivity: 0.04 - Aurora's Song
-  # heatCapacity: 10000 - Aurora's Song
+  thermalConductivity: 0.04
+  heatCapacity: 10000
   # weather: true - Aurora's Song
 
 - type: tile
   id: FloorMS13CarpetGreen
-  parent: BaseStationTile # Aurora's Song
   name: tile-FloorMS13CarpetGreen # Aurora's Song
   sprite: /Textures/_Nuclear14/Tiles/ms13/Carpet/carpet_green.png
-  # baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
-  # isSubfloor: false - Aurora's Song
+  baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
+  isSubfloor: false
   # deconstructTools: [ Prying ] - Aurora's Song
   footstepSounds:
     collection: FootstepCarpet
   # friction: 0.30 - Aurora's Song
   # itemDrop: FloorTileItemCarpetRed
-  # thermalConductivity: 0.04 - Aurora's Song
-  # heatCapacity: 10000 - Aurora's Song
+  thermalConductivity: 0.04
+  heatCapacity: 10000
   # weather: true - Aurora's Song
 
 - type: tile
   id: FloorMS13CarpetFancyGreen
-  parent: BaseStationTile # Aurora's Song
   name: tile-FloorMS13CarpetFancyGreen # Aurora's Song
   sprite: /Textures/_Nuclear14/Tiles/ms13/Carpet/carpet_fancy_green.png
-  # baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
-  # isSubfloor: false - Aurora's Song
+  baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
+  isSubfloor: false
   # deconstructTools: [ Prying ] - Aurora's Song
   footstepSounds:
     collection: FootstepCarpet
   # friction: 0.30 - Aurora's Song
   # itemDrop: FloorTileItemCarpetRed
-  # thermalConductivity: 0.04 - Aurora's Song
-  # heatCapacity: 10000 - Aurora's Song
+  thermalConductivity: 0.04
+  heatCapacity: 10000
   # weather: true - Aurora's Song
 
 - type: tile
   id: FloorMS13CarpetViolet
-  parent: BaseStationTile # Aurora's Song
   name: tile-FloorMS13CarpetViolet # Aurora's Song
   sprite: /Textures/_Nuclear14/Tiles/ms13/Carpet/carpet_violet.png
-  # baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
-  # isSubfloor: false - Aurora's Song
+  baseTurf: Plating # Aurora's Song | FloorWasteland -> Plating
+  isSubfloor: false
   # deconstructTools: [ Prying ] - Aurora's Song
   footstepSounds:
     collection: FootstepCarpet
   # friction: 0.30 - Aurora's Song
   # itemDrop: FloorTileItemCarpetRed
-  # thermalConductivity: 0.04 - Aurora's Song
-  # heatCapacity: 10000 - Aurora's Song
+  thermalConductivity: 0.04
+  heatCapacity: 10000
   # weather: true - Aurora's Song
 
 # Paths and Roads
