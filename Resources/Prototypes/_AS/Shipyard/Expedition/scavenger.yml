@@ -13,11 +13,10 @@
   description: An experiemental, expedition-worthy salvaging shuttle utilizing Xenomorph materials.
   price: 97500 # ~75000 appraisal w/ 30% markup
   category: Medium
-  group: Scrap
-  shuttlePath: /Maps/_AS/Shuttles/Scrap/scavenger.yml
+  group: Expedition
+  shuttlePath: /Maps/_AS/Shuttles/Expedition/scavenger.yml
   guidebookPage: ShipyardScavenger
   class:
-  - Scrapyard
   - Expedition
   - Salvage
   engine:
@@ -26,7 +25,7 @@
 - type: gameMap
   id: Scavenger
   mapName: 'XED Scavenger'
-  mapPath: /Maps/_AS/Shuttles/Scrap/scavenger.yml
+  mapPath: /Maps/_AS/Shuttles/Expedition/scavenger.yml
   minPlayers: 0
   stations:
     Scavenger:
