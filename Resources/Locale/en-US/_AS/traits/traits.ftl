@@ -36,3 +36,6 @@ trait-fairy-blood-desc = You have narcotic pixium for blood, as seen in Fairies.
 
 trait-goblin-blood-name = Goblin blood
 trait-goblin-blood-desc = You have green, foul-smelling blood, as seen in Goblins.
+
+trait-cryox-blood-name = Cryoxadone blood
+trait-cryox-blood-desc = You have cryoxadone for blood, as seen in Sheleg and many space animals.

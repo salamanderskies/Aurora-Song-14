@@ -105,3 +105,14 @@
   components:
     - type: BloodSwap
       bloodReagent: GoblinBlood
+
+- type: trait
+  id: BloodSwapCryox
+  name: trait-cryox-blood-name
+  description: trait-cryox-blood-desc
+  category: BloodSwapTraits
+  cost: 1
+  speciesBlacklist: [IPC, Sheleg]
+  components:
+    - type: BloodSwap
+      bloodReagent: Cryoxadone
