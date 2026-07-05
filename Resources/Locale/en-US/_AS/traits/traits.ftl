@@ -29,7 +29,7 @@ trait-blue-blood-name = Blue blood
 trait-blue-blood-desc = You have copper-based blood, as seen in Arachnids.
 
 trait-acid-blood-name = Acid blood
-trait-acod-blood-desc = You have fluorosulfuric acid for blood, as seen in Xenomorphs.
+trait-acid-blood-desc = You have fluorosulfuric acid for blood, as seen in Xenomorphs.
 
 trait-fairy-blood-name = Fairy blood
 trait-fairy-blood-desc = You have narcotic pixium for blood, as seen in Fairies.
