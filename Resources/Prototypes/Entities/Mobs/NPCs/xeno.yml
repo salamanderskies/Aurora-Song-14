@@ -95,6 +95,8 @@
     spawned:
     - id: FoodMeatXeno
       amount: 5
+    - id: MaterialSheetChitin1
+      amount: 2
   - type: GhostRole
     allowMovement: true
     allowSpeech: true
