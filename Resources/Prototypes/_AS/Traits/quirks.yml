@@ -6,6 +6,8 @@
   speciesBlacklist: [IPC]
   components:
     - type: Replicant
+    - type: BloodSwap
+      bloodReagent: Oxidant
 
 - type: trait
   id: BloodSwapRed
