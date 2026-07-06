@@ -1,3 +1,27 @@
+- type: construction
+  id: XenoChair
+  graph: ASseats
+  startNode: start
+  targetNode: xenoChair
+  category: construction-category-furniture
+  objectType: Structure
+  placementMode: SnapgridCenter
+  canBuildInImpassable: false
+  conditions:
+    - !type:TileNotBlocked
+
+- type: construction
+  id: TableXeno
+  graph: Table
+  startNode: start
+  targetNode: TableXeno
+  category: construction-category-furniture
+  objectType: Structure
+  placementMode: SnapgridCenter
+  canBuildInImpassable: false
+  conditions:
+    - !type:TileNotBlocked
+
 # N14 Beds
 - type: construction
   id: N14BedMattressDirty1

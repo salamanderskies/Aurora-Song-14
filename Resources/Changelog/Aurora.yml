@@ -1806,3 +1806,69 @@ Entries:
   id: 9585
   time: '2026-07-06T01:27:41.0000000+00:00'
   url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1176
+- author: Minerva, yesteryuri
+  changes:
+    - type: Tweak
+      message: Tape recorders now have signal ports for their buttons
+  id: 9586
+  time: '2026-07-06T01:56:38.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1206
+- author: salamanderskies
+  changes:
+    - type: Add
+      message: Aurora now has its own definitions page in the guidebook!
+  id: 9587
+  time: '2026-07-06T02:06:24.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1199
+- author: ZigTag
+  changes:
+    - type: Tweak
+      message: Shelegs and IPCs can now use all NSFW chems
+  id: 9588
+  time: '2026-07-06T02:09:22.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1208
+- author: WallflowerGhost
+  changes:
+    - type: Tweak
+      message: Killed Christmas (Deck The Halls is no longer in the jukebox)
+    - type: Tweak
+      message: >-
+        Killed broken posters (with a new component, any crowbar can remove them
+        now)
+  id: 9589
+  time: '2026-07-06T02:23:16.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1202
+- author: salamanderskies
+  changes:
+    - type: Add
+      message: Added chitin, a material to construct Xeno structures with.
+    - type: Tweak
+      message: >-
+        Chitin walls, resin windows, and Xeno tables & chairs are now
+        constructable.
+    - type: Tweak
+      message: Xeno tiles are now printable in the cutter.
+  id: 9590
+  time: '2026-07-06T02:44:30.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1218
+- author: salamanderskies
+  changes:
+    - type: Add
+      message: IPCs can now select alternative speech and emote sounds.
+  id: 9591
+  time: '2026-07-06T03:13:43.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1209
+- author: dragydevi
+  changes:
+    - type: Add
+      message: Arcadia Jumpsuit is now Foldable
+  id: 9592
+  time: '2026-07-06T03:31:39.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1211
+- author: Sunburstschitin
+  changes:
+    - type: Add
+      message: Added grass decals to the spray painter!
+  id: 9593
+  time: '2026-07-06T10:49:44.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1219
