@@ -1,3 +1,4 @@
+using Content.Shared.Body.Components;
 using Content.Shared.Body.Systems;
 using Content.Shared.Chemistry.Components;
 
@@ -19,9 +20,16 @@ public sealed class BloodSwapSystem : EntitySystem
 
     private void OnBloodSwapStartup(EntityUid uid, BloodSwapComponent component, ComponentStartup args)
     {
-        // Solution made from the reagent defined in BloodSwapComponent
-        Solution bloodSolution = new([new(component.BloodReagent, 300)]);
+        // We need BloodstreamComponent to know the volume of the player's bloodstream.
+        if (!TryComp<BloodstreamComponent>(uid, out var bloodStream))
+            return;
 
+        var bloodVolume = bloodStream.BloodReferenceSolution.Volume;
+
+        // Create a solution made from the reagent defined in BloodSwapComponent and the volume gotten from BloodstreamComponent.
+        Solution bloodSolution = new([new(component.BloodReagent, bloodVolume)]);
+
+        // Replace the player's blood with this solution.
         _bloodSystem.ChangeBloodReagents(uid, bloodSolution);
     }
 }
