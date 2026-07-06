@@ -689,6 +689,7 @@
     - NFBioGenAnimalCubesStatic #Frontier
     - ASBioGenMaterialsStatic # Aurora's Song
     - ASBioGenAnimalCubesStatic # Aurora's Song
+    - ASBioGenSeedsStatic # Aurora's Song
   - type: EmagLatheRecipes
     emagStaticPacks:
     - BioGenEmagStatic
@@ -834,6 +835,7 @@
     - NFFloorTiles # Frontier
     - NFFloorTilesCarpet # Frontier
     - CorvaxWoodTiles # Aurora's Song
+    - XenoTiles # Aurora's Song
     dynamicPacks:
     - FauxTiles
   - type: EmagLatheRecipes # Frontier

@@ -8,6 +8,13 @@
   materials:
     Biomass: 10
 
+- type: latheRecipe
+  id: ASBioGenChitinPlate
+  result: MaterialSheetChitin1
+  parent: BaseMaterialsNoDiscountRecipe
+  materials:
+    Biomass: 10
+
 #region Cubes
 
 - type: latheRecipe
@@ -58,3 +65,21 @@
   id: ASBioGenPompomCube
   result: PompomCube
   parent: BaseCubeRecipe
+
+# region Seeds
+
+- type: latheRecipe
+  id: ASBioGenPomegranateSeeds
+  parent: BioGenSeedsRecipe
+  result: PomegranateSeeds
+  icon:
+    sprite: Objects/Specific/Hydroponics/pomegranate.rsi
+    state: seed
+
+- type: latheRecipe
+  id: ASBioGenPompomBushSeeds
+  parent: BioGenSeedsRecipe
+  result: PompomBushSeeds
+  icon:
+    sprite: _Impstation/Objects/Specific/Hydroponics/pompombush.rsi
+    state: seed

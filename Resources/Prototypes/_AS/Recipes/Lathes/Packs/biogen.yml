@@ -2,6 +2,7 @@
   id: ASBioGenMaterialsStatic
   recipes:
   - ASBioGenMeatSheet
+  - ASBioGenChitinPlate
 
 - type: latheRecipePack
   id: ASBioGenAnimalCubesStatic
@@ -13,3 +14,9 @@
   - ASBioGenTreeShadowCube
   - ASBioGenTreeLightCube
   - ASBioGenPompomCube
+
+- type: latheRecipePack
+  id: ASBioGenSeedsStatic
+  recipes:
+  - ASBioGenPomegranateSeeds
+  - ASBioGenPompomBushSeeds

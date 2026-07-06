@@ -223,7 +223,7 @@
       types:
         Heat: -0.025
   - type: BlockInjection
-    blockHypospray: true
+    #blockHypospray: true # Aurora's Song: This field is broken and thus no longer used
     blockInjectOnProjectile: true
   - type: InventorySlotFriction
   - type: AutoToggleableOuterClothing
@@ -355,8 +355,9 @@
   components:
   - type: MetabolizerTagWhitelist # Aurora's Song - Replace Sheleg metabolizer with a tag whitelist for chems
     tags:
+    - Aphrodisiac
     - Cryogenic
-    - Sheleg
+    - ShelegCompatible
     - Toxin
     - Narcotic
     stages: [ "Bloodstream" ]
