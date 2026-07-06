@@ -1,26 +1,14 @@
 # Walls
-- type: construction
-  id: WallSolidChitin
+- type: construction # Aurora - Added name field for proper menu display with (diagonal) suffix
+  id: wallSolidDiagonal
+  name: construction-recipe-wall-solid-diagonal
   graph: Girder
   startNode: start
-  targetNode: wallChitin
+  targetNode: wallSolidDiagonal
   category: construction-category-structures
   objectType: Structure
   placementMode: SnapgridCenter
-  canRotate: false
-  canBuildInImpassable: false
-  conditions:
-    - !type:TileNotBlocked
-
-- type: construction
-  id: WallReinforcedChitin
-  graph: Girder
-  startNode: start
-  targetNode: reinforcedWallChitin
-  category: construction-category-structures
-  objectType: Structure
-  placementMode: SnapgridCenter
-  canRotate: false
+  canRotate: true
   canBuildInImpassable: false
   conditions:
     - !type:TileNotBlocked
@@ -35,20 +23,6 @@
   objectType: Structure
   placementMode: SnapgridCenter
   canRotate: false
-  canBuildInImpassable: false
-  conditions:
-    - !type:TileNotBlocked
-
-- type: construction # Aurora - Added name field for proper menu display with (diagonal) suffix
-  id: wallSolidDiagonal
-  name: construction-recipe-wall-solid-diagonal
-  graph: Girder
-  startNode: start
-  targetNode: wallSolidDiagonal
-  category: construction-category-structures
-  objectType: Structure
-  placementMode: SnapgridCenter
-  canRotate: true
   canBuildInImpassable: false
   conditions:
     - !type:TileNotBlocked
