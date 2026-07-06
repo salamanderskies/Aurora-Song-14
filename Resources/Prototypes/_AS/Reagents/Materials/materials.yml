@@ -4,5 +4,5 @@
   name: materials-chitin
   unit: materials-unit-slab
   icon: { sprite: _AS/Objects/Materials/Sheets/chitin.rsi, state: chitin-1 }
-  color: "#c53648"
+  color: "#272736"
   price: 0.05

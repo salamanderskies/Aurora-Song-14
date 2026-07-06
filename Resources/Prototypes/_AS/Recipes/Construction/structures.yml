@@ -53,7 +53,7 @@
   conditions:
     - !type:TileNotBlocked
 
-# Diagonal Windows
+# Diagonal Walls
 - type: construction # Aurora - Added name field for proper menu display with (diagonal) suffix
   id: wallSolidDiagonal
   name: construction-recipe-wall-solid-diagonal
@@ -68,6 +68,7 @@
   conditions:
     - !type:TileNotBlocked
 
+# Diagonal Windows
 - type: construction # Aurora - Added name field for proper menu display with (diagonal) suffix
   id: wallReinforcedDiagonal
   name: construction-recipe-wall-reinforced-diagonal
