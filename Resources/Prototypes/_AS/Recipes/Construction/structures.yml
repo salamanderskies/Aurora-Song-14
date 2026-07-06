@@ -25,12 +25,12 @@
   conditions:
     - !type:TileNotBlocked
 
-# Windows
 - type: construction
-  id: ResinWindow
-  graph: ASwindow
+  id: WallShuttleInterior
+  name: construction-recipe-wall-shuttle-interior
+  graph: Girder
   startNode: start
-  targetNode: resinWindow
+  targetNode: shuttleInteriorWall
   category: construction-category-structures
   objectType: Structure
   placementMode: SnapgridCenter
@@ -39,7 +39,6 @@
   conditions:
     - !type:TileNotBlocked
 
-# Diagonal Windows
 - type: construction # Aurora - Added name field for proper menu display with (diagonal) suffix
   id: wallSolidDiagonal
   name: construction-recipe-wall-solid-diagonal
@@ -54,7 +53,8 @@
   conditions:
     - !type:TileNotBlocked
 
-- type: construction # Aurora - Added name field for proper menu display with (diagonal) suffix
+# Windows
+- type: construction
   id: wallReinforcedDiagonal
   name: construction-recipe-wall-reinforced-diagonal
   graph: Girder
@@ -94,42 +94,16 @@
   objectType: Structure
   placementMode: SnapgridCenter
 
-# Doors
 - type: construction
-  id: XenoAirlock
-  graph: ASwindow
+  id: ShuttleWindowDiagonal
+  name: construction-recipe-window-shuttle-diagonal
+  graph: ASWindowDiagonal
   startNode: start
-  targetNode: resinWindow
+  targetNode: shuttleWindowDiagonal
   category: construction-category-structures
+  canBuildInImpassable: true
+  conditions:
+    - !type:EmptyOrWindowValidInTile
+    - !type:NoWindowsInTile
   objectType: Structure
   placementMode: SnapgridCenter
-  canRotate: false
-  canBuildInImpassable: false
-  conditions:
-    - !type:TileNotBlocked
-
-- type: construction
-  id: ResinWindow
-  graph: ASwindow
-  startNode: start
-  targetNode: resinWindow
-  category: construction-category-structures
-  objectType: Structure
-  placementMode: SnapgridCenter
-  canRotate: false
-  canBuildInImpassable: false
-  conditions:
-    - !type:TileNotBlocked
-
-- type: construction
-  id: ResinWindow
-  graph: ASwindow
-  startNode: start
-  targetNode: resinWindow
-  category: construction-category-structures
-  objectType: Structure
-  placementMode: SnapgridCenter
-  canRotate: false
-  canBuildInImpassable: false
-  conditions:
-    - !type:TileNotBlocked
