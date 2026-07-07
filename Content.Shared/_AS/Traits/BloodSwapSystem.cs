@@ -7,9 +7,9 @@ namespace Content.Shared._AS.Traits;
 /// <summary>
 /// System that handles swapping blood reagents. Used with <see cref="BloodSwapComponent"/>.
 /// </summary>
-public sealed class BloodSwapSystem : EntitySystem
+public sealed partial class BloodSwapSystem : EntitySystem
 {
-    [Dependency] private readonly SharedBloodstreamSystem _bloodSystem = default!;
+    [Dependency] private SharedBloodstreamSystem _bloodSystem = default!;
 
     public override void Initialize()
     {

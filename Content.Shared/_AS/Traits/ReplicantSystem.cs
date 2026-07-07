@@ -6,9 +6,8 @@ namespace Content.Shared._AS.Traits;
 public sealed partial class ReplicantSystem : EntitySystem
 {
     private static readonly ProtoId<TypingIndicatorPrototype> TypingIndicator = "robot";
+    [Dependency] private SharedTypingIndicatorSystem _typingIndicator = default!;
 
-    [Dependency] private readonly SharedTypingIndicatorSystem _typingIndicator = default!;
-    
     public override void Initialize()
     {
         base.Initialize();
