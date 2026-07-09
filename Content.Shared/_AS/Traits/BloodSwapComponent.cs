@@ -12,5 +12,5 @@ public sealed partial class BloodSwapComponent : Component
     /// What reagent you're trying to swap the bloodstream to.
     /// </summary>
     [DataField(required: true), ViewVariables(VVAccess.ReadOnly)]
-    public string BloodReagent;
+    public string? BloodReagent;
 }
