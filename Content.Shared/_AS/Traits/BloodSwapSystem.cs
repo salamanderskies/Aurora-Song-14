@@ -15,10 +15,10 @@ public sealed partial class BloodSwapSystem : EntitySystem
     {
         base.Initialize();
 
-        SubscribeLocalEvent<BloodSwapComponent, ComponentStartup>(OnBloodSwapStartup);
+        SubscribeLocalEvent<BloodSwapComponent, ComponentInit>(OnBloodSwapStartup);
     }
 
-    private void OnBloodSwapStartup(EntityUid uid, BloodSwapComponent component, ComponentStartup args)
+    private void OnBloodSwapStartup(EntityUid uid, BloodSwapComponent component, ComponentInit args)
     {
         // We need BloodstreamComponent to know the volume of the player's bloodstream. We also need BloodReagent to not be null
         if (!TryComp<BloodstreamComponent>(uid, out var bloodStream) || component.BloodReagent == null)
