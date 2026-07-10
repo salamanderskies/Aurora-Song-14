@@ -1903,3 +1903,10 @@ Entries:
   id: 9596
   time: '2026-07-07T07:07:57.0000000+00:00'
   url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1222
+- author: GreyScaleHarlequin
+  changes:
+    - type: Fix
+      message: Syndicate laser turrets now take damage again, whoops.
+  id: 9597
+  time: '2026-07-09T20:24:50.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1231
