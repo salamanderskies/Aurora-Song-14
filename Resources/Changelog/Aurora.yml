@@ -1910,3 +1910,42 @@ Entries:
   id: 9597
   time: '2026-07-09T20:24:50.0000000+00:00'
   url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1231
+- author: SolStar2
+  changes:
+    - type: Tweak
+      message: Replaced notekeeper with a new and improved note keeping app, NeoNote.
+    - type: Add
+      message: Added persistence to NeoNote!
+  id: 9598
+  time: '2026-07-10T22:51:33.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1200
+- author: ZigTag
+  changes:
+    - type: Fix
+      message: Ore bags (and other magets) work like before the upmerge!
+  id: 9599
+  time: '2026-07-11T00:29:02.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1241
+- author: heirdragonair
+  changes:
+    - type: Add
+      message: offset canes are now obtainable! yay! yay! yippee!
+  id: 9600
+  time: '2026-07-11T01:35:32.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1238
+- author: Dizzy-Eevee
+  changes:
+    - type: Tweak
+      message: You can no longer draw blood from IPCs and Sheleg
+  id: 9601
+  time: '2026-07-11T03:52:20.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1224
+- author: GreyScaleHarlequin
+  changes:
+    - type: Fix
+      message: >-
+        Fixed Replicant blood volumes, fairy replicants no longer choke to death
+        on arrival.
+  id: 9602
+  time: '2026-07-11T04:26:32.0000000+00:00'
+  url: https://github.com/AuroraSong14/Aurora-Song-14/pull/1234

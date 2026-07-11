@@ -928,6 +928,11 @@
   - ContractorToolboxMechanical
   - ContractorMantisMeleeCane # Aurora's Song - Mantis drip merge
   - ContractorCane
+  - ContractorOffsetCane # Aurora's Song - for mobility impaired trait
+  - ContractorOffsetCaneClown # Aurora's Song - for mobility impaired trait
+  - ContractorOffsetCaneMime # Aurora's Song - for mobility impaired trait
+  - ContractorOffsetCaneNT # Aurora's Song - for mobility impaired trait
+  - ContractorOffsetCaneWood # Aurora's Song - for mobility impaired trait
   - ContractorLGBTQHandyFlag
   - ContractorNTHandyFlag
   - ContractorBalloonNT
