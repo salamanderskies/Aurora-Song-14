@@ -32,6 +32,7 @@
 # Aurora Song- Mantis drip merge start
 - type: loadout
   id: ContractorMantisMeleeCane
+  groupBy: canes
   price: 1000
   inhand:
   - MantisMeleeCane
@@ -39,6 +40,7 @@
 
 - type: loadout
   id: ContractorCane
+  groupBy: canes # Aurora's Song
   price: 100 # Aurora's Song - 1000 > 100 accessibility items should not be 1 squilliam dollars
   inhand:
   - Cane
@@ -46,33 +48,38 @@
 # Aurora's Song Start - added offset canes to loadouts
 - type: loadout
   id: ContractorOffsetCane
+  groupBy: canes
   price: 100
   inhand:
   - OffsetCane
 
 - type: loadout
   id: ContractorOffsetCaneClown
+  groupBy: canes
   price: 100
   inhand:
   - OffsetCaneClown
 
 - type: loadout
   id: ContractorOffsetCaneMime
+  groupBy: canes
   price: 100
   inhand:
   - OffsetCaneMime
 
 - type: loadout
   id: ContractorOffsetCaneNT
+  groupBy: canes
   price: 100
   inhand:
   - OffsetCaneNT
 
 - type: loadout
   id: ContractorOffsetCaneWood
+  groupBy: canes
   price: 100
   inhand:
-  - OffsetCaneWood  
+  - OffsetCaneWood
 # Aurora's Song End - added offset canes
 
 # T2
