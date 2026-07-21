@@ -29,15 +29,6 @@
   inhand:
   - ToolboxMechanical
 
-# Aurora Song- Mantis drip merge start
-- type: loadout
-  id: ContractorMantisMeleeCane
-  groupBy: canes
-  price: 1000
-  inhand:
-  - MantisMeleeCane
-# Aurora Song- Mantis drip merge end
-
 - type: loadout
   id: ContractorCane
   groupBy: canes # Aurora's Song
@@ -46,6 +37,14 @@
   - Cane
 
 # Aurora's Song Start - added offset canes to loadouts
+
+- type: loadout
+  id: ContractorOffsetCaneWood
+  groupBy: canes
+  price: 100
+  inhand:
+  - OffsetCaneWood
+
 - type: loadout
   id: ContractorOffsetCane
   groupBy: canes
@@ -73,14 +72,16 @@
   price: 100
   inhand:
   - OffsetCaneNT
-
-- type: loadout
-  id: ContractorOffsetCaneWood
-  groupBy: canes
-  price: 100
-  inhand:
-  - OffsetCaneWood
 # Aurora's Song End - added offset canes
+
+# Aurora Song- Mantis drip merge start
+- type: loadout
+  id: ContractorMantisMeleeCane
+  groupBy: canes
+  price: 1000
+  inhand:
+  - MantisMeleeCane
+# Aurora Song- Mantis drip merge end
 
 # T2
 - type: loadout
