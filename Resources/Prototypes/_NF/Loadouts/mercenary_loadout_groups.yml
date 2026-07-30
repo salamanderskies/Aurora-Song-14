@@ -185,6 +185,7 @@
   - MercenaryLongarmGestio
   - MercenaryLongarmRepeater
   - MercenaryLongarmKammerer
+  - MercenaryLongarmCrusher
 
 - type: loadoutGroup # Aurora's Song - Sidearm loadouts for Mercenary
   id: MercenarySidearm
@@ -198,6 +199,7 @@
   - MercenarySidearmFitz
   - MercenarySidearmLaserPistol
   - MercenarySidearmDisabler
+  - MercenarySidearmCrusherDagger
 
 - type: loadoutGroup # Aurora's Song - Ammo loadouts for Mercenary
   id: MercenaryAmmo
