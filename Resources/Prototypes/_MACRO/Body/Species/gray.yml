@@ -158,11 +158,18 @@
     speechSounds: PVC
   - type: Damageable
     damageModifierSet: Gray
+  # Aurora's Song Start - They're GREEN
+  - type: DamageVisuals
+    damageOverlayGroups:
+      Brute:
+        sprite: Mobs/Effects/brute_damage.rsi
+        color: "#00ff04"
+  # Aurora's Song End
   - type: Bloodstream
     bloodReferenceSolution:
       reagents:
       - ReagentId: GrayBlood
-        Quantity: 300
+        Quantity: 600 # Aurora's Song - Update for solutions refactor.
 
 
 - type: entity

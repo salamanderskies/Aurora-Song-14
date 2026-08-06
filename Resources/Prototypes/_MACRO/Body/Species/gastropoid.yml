@@ -148,7 +148,7 @@
     bloodReferenceSolution:
       reagents:
       - ReagentId: CopperBlood
-        Quantity: 300
+        Quantity: 600 # Aurora's Song - Update for solutions refactor.
   - type: Tag
     tags:
       - DoorBumpOpener
