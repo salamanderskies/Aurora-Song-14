@@ -2,7 +2,7 @@
   id: NamesGrayFirst
   values:
     prefix: names-gray-first-
-    count: 44
+    count: 42
 
 - type: localizedDataset
   id: NamesGrayLast
