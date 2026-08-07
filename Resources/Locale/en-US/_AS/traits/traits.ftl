@@ -55,9 +55,6 @@ trait-cryox-blood-desc = You have cryoxadone for blood, as seen in Sheleg and ma
 trait-methylated-blood-name = Methylated blood
 trait-methylated-blood-desc = You have ethanol-based blood, as seen in Allulalo.
 
-trait-gray-blood-name = Joos
-trait-gray-blood-desc = You have radium-based blood, as seen in Grays.
-
 trait-heavyweight-name = Heavyweight
 trait-heavyweight-desc = Makes you harder to move.
 
