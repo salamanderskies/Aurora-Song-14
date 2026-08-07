@@ -70,8 +70,7 @@
             Poison: 3
         conditions:
         - !type:MetabolizerTypeCondition
-          type: [Plant, Gastropoid] #Macrocosm, added Gastropoid
-
+          type: [Plant]
 - type: reagent
   id: PlantBGone
   name: reagent-name-plant-b-gone

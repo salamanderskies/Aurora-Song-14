@@ -5,8 +5,3 @@
 - type: metabolizerType
   id: Decapoid
   name: metabolizer-type-decapoid
-
-- type: metabolizerType
-  id: Gastropoid
-  name: metabolizer-type-gastropoid
-

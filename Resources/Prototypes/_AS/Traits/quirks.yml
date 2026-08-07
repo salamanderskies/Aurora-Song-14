@@ -70,7 +70,7 @@
   description: trait-blue-blood-desc
   category: BloodSwapTraits
   cost: 1
-  speciesBlacklist: [IPC, Arachnid, Decapoid, Gastropoid]
+  speciesBlacklist: [IPC, Arachnid, Decapoid]
   components:
     - type: BloodSwap
       bloodReagent: CopperBlood

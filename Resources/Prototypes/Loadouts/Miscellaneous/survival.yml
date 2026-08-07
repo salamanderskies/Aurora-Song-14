@@ -21,7 +21,6 @@
     - Vulpkanin
     - Ovinia # Den Addition
     - Gray
-    - Gastropoid
 
 - type: loadoutEffectGroup
   id: EffectSpeciesVox
@@ -82,7 +81,6 @@
     - Vulpkanin
     # macro below
     - Gray
-    - Gastropoid
 
 - type: loadoutEffectGroup
   id: OxygenBreatherMimeMoth
