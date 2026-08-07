@@ -19,17 +19,6 @@
             ]
         },
         {
-            "name": "snail",
-            "delays": [
-                [
-                    0.2,
-                    0.3,
-                    0.3,
-                    0.5
-                ]
-            ]
-        },
-        {
             "name": "allulalo",
             "delays": [
                 [
