@@ -17,7 +17,7 @@
     Laugh:
       path: /Audio/_MACRO/Voice/Gastropoid/snail_laugh.ogg
     Sneeze:
-      collection: UnisexSneezes
+      collection: MaleSneezes #Aurora's Song UnisexSneezes > MaleSneezes
     Cough:
       path: /Audio/_MACRO/Voice/Gastropoid/snail_cough.ogg
     CatMeow:
