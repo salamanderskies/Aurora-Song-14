@@ -183,8 +183,10 @@
       Male: UnisexSnail
       Female: UnisexSnail
       Unsexed: UnisexSnail
+  # Aurora's Song Start
   - type: Speech
     speechSounds: Gastropoid
+  # Aurora's Song End
   - type: BodyEmotes
     soundsId: GastropoidBodyEmotes
   - type: GastropoidAccent
