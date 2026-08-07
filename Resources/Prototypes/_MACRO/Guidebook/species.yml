@@ -12,8 +12,3 @@
   id: Gray
   name: species-name-gray # Aurora's Song - Gray > species-name-gray
   text: "/ServerInfo/_MACRO/Guidebook/Mobs/Gray.xml"
-
-- type: guideEntry
-  id: Gastropoid
-  name: species-name-gastropoid # Aurora's Song - Gastropoid > species-name-gastropoid
-  text: "/ServerInfo/_MACRO/Guidebook/Mobs/Gastropoid.xml"

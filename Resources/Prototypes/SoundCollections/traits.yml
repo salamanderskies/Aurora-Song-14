@@ -253,20 +253,22 @@
   # - /Audio/_Impstation/Voice/Anomalocarid/anomalocarid_ask.ogg
   # - /Audio/_Impstation/Voice/Anomalocarid/anomalocarid_exclaim.ogg
   # - /Audio/_Impstation/Voice/Anomalocarid/anomalocarid_deathgasp.ogg
+  # - /Audio/_Impstation/Voice/Arachnid/arachnid_gasp.ogg
   # Aurora's Song Edit End
-  - /Audio/_MACRO/Voice/Arachnid/arachnid_gasp.ogg
   - /Audio/_MACRO/Voice/Decapoid/decapoid_gasp.ogg
   - /Audio/_MACRO/Voice/Decapoid/decapoid_deathgasp.ogg
   - /Audio/_MACRO/Voice/Decapoid/decapoid_scream.ogg
-  - /Audio/_MACRO/Voice/Gastropoid/snail_gasp.ogg
-  - /Audio/_MACRO/Voice/Gastropoid/snail_deathgasp.ogg
-  - /Audio/_MACRO/Voice/Gastropoid/snail_scream.ogg
+  # Aurora's Song Edit Start
+  # - /Audio/_Impstation/Voice/Gastropoid/snail_gasp.ogg
+  # - /Audio/_Impstation/Voice/Gastropoid/snail_deathgasp.ogg
+  # - /Audio/_Impstation/Voice/Gastropoid/snail_scream.ogg
+  # Aurora's Song Edit End
   - /Audio/_MACRO/Voice/Gray/gray_gasp.ogg
   - /Audio/_MACRO/Voice/Gray/gray_deathgasp.ogg
   - /Audio/_MACRO/Voice/Gray/gray_scream.ogg
-  - /Audio/_MACRO/Voice/Moth/mothgasp.ogg
-  - /Audio/_MACRO/Voice/Moth/mothyawn.ogg
   # Aurora's Song Edit Start
+  # - /Audio/_Impstation/Voice/Moth/mothgasp.ogg
+  # - /Audio/_Impstation/Voice/Moth/mothyawn.ogg
   # - /Audio/_Impstation/Voice/Reptilian/reptilian_chirp1.ogg
   # - /Audio/_Impstation/Voice/Silicon/silicon_laugh.ogg
   # - /Audio/_Impstation/Voice/Silicon/silicon_scream.ogg
@@ -280,10 +282,10 @@
   - /Audio/_MACRO/Voice/Gray/gray.ogg
   - /Audio/_MACRO/Voice/Gray/gray_ask.ogg
   - /Audio/_MACRO/Voice/Gray/gray_exclaim.ogg
-  - /Audio/_MACRO/Voice/Gastropoid/snail.ogg
-  - /Audio/_MACRO/Voice/Gastropoid/snail_ask.ogg
-  - /Audio/_MACRO/Voice/Gastropoid/snail_exclaim.ogg
   # Aurora's Song Edit Start
+  # - /Audio/_Impstation/Voice/Gastropoid/snail.ogg
+  # - /Audio/_Impstation/Voice/Gastropoid/snail_ask.ogg
+  # - /Audio/_Impstation/Voice/Gastropoid/snail_exclaim.ogg
   # - /Audio/_Impstation/Voice/Ungu/ungu_gasp.ogg
   # - /Audio/_Impstation/Voice/Ungu/ungu_death_gasp.ogg
   # - /Audio/_Impstation/Voice/Ungu/ungu_talk.ogg
