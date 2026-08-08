@@ -127,21 +127,12 @@
   color: saddlebrown
   recognizable: true
   metabolisms:
-    Bloodstream: #Macrocosm changed from disgestion > bloodstream
+    Digestion:
       effects:
       - !type:SatiateHunger
         factor: 0.5
       - !type:SatiateThirst
         factor: -0.5 # high salt content
-      #Macrocosm start
-      - !type:HealthChange
-        conditions:
-        - !type:MetabolizerTypeCondition
-          type: [ Gastropoid ]
-        damage:
-          types:
-            Poison: 4
-      #Macrocosm end
 
 - type: reagent
   id: TableSalt
@@ -168,20 +159,11 @@
   - !type:PlantAdjustHealth
     amount: -2
   metabolisms:
-    Bloodstream: #Macrocosm changed from disgestion > bloodstream
+    Digestion:
       effects:
       # eating salt on its own kinda sucks, kids
       - !type:SatiateThirst
         factor: -0.5
-      #Macrocosm start
-      - !type:HealthChange
-        conditions:
-        - !type:MetabolizerTypeCondition
-          type: [ Gastropoid ]
-        damage:
-          types:
-            Poison: 4
-      #Macrocosm end
 
 - type: reagent
   id: Syrup

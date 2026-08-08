@@ -17,7 +17,6 @@
     Laugh:
       path: /Audio/_MACRO/Voice/Allulalo/allulalo_laugh.ogg
     Hiss:
-      collection: ReptilianHiss # Aurora's Song
       path: /Audio/_MACRO/Voice/Vox/voxhiss.ogg
       params:
       volume: -5

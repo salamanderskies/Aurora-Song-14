@@ -603,18 +603,6 @@
   physicalDesc: reagent-physical-desc-sour
   flavor: bitter
   color: "#B3B599"
-  #Macrocosm start
-  metabolisms:
-    Bloodstream:
-      effects:
-      - !type:HealthChange
-        conditions:
-        - !type:MetabolizerTypeCondition
-          type: [ Gastropoid ]
-        damage:
-          types:
-            Poison: 4
-  #Macrocosm end
 
 - type: reagent
   id: OrangeLimeSoda

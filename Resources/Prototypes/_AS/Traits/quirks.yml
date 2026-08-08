@@ -70,7 +70,7 @@
   description: trait-blue-blood-desc
   category: BloodSwapTraits
   cost: 1
-  speciesBlacklist: [IPC, Arachnid, Decapoid, Gastropoid]
+  speciesBlacklist: [IPC, Arachnid, Decapoid]
   components:
     - type: BloodSwap
       bloodReagent: CopperBlood
@@ -130,13 +130,3 @@
     - type: BloodSwap
       bloodReagent: BloodAllulalo
 
-- type: trait
-  id: BloodSwapGray
-  name: trait-gray-blood-name
-  description: trait-gray-blood-desc
-  category: BloodSwapTraits
-  cost: 1
-  speciesBlacklist: [IPC, Gray]
-  components:
-    - type: BloodSwap
-      bloodReagent: BloodGray
