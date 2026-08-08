@@ -20,7 +20,7 @@
     - Reptilian
     - Vulpkanin
     - Ovinia # Den Addition
-    - Gray
+    - Gray # Macro
 
 - type: loadoutEffectGroup
   id: EffectSpeciesVox
@@ -79,8 +79,7 @@
     - Human
     - Reptilian
     - Vulpkanin
-    # macro below
-    - Gray
+    - Gray # Macro
 
 - type: loadoutEffectGroup
   id: OxygenBreatherMimeMoth
