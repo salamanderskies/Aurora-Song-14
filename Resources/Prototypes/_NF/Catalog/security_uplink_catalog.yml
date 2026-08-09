@@ -518,6 +518,28 @@
         - OffDutyOfficer
         - Commissioner
 
+- type: listing # Aurora's Song - Added StarTech LDR
+  id: UplinkSecurityLDR
+  name:  uplink-security-ldr-name
+  description: uplink-security-ldr-desc
+  productEntity: ASWeaponRifleAssaultStarTechLDR
+  icon: { sprite: _AS/Objects/Weapons/Guns/Rifles/ldrifle.rsi, state: icon }
+  cost:
+    FrontierUplinkCoin: 4
+  categories:
+    - UplinkSecurityWeapons
+  conditions:
+    - !type:StoreWhitelistCondition
+      whitelist:
+        tags:
+          - SecurityUplink
+    - !type:BuyerJobCondition
+      whitelist: # Aurora's Song - Switched NFSD to SLE roles
+        - Lieutenant
+        - Sergeant
+        - OffDutyOfficer
+        - Commissioner
+
 - type: listing
   id: UplinkSecurityVulcan
   name:  uplink-security-vulcan-name
@@ -1203,6 +1225,22 @@
   description: uplink-security-cash1000-desc
   productEntity: SpaceCash1000
   icon: { sprite: Objects/Economy/cash.rsi, state: cash_1000 }
+  cost:
+    FrontierUplinkCoin: 1
+  categories:
+    - UplinkSecurityUtility
+  conditions:
+    - !type:StoreWhitelistCondition
+      whitelist:
+        tags:
+          - SecurityUplink
+
+- type: listing # Aurora's Song - Added Prison Tracking Implanter to uplink
+  id: UplinkSecurityPrisonTrackingImplanter
+  name:  uplink-security-prison-tracking-implanter-name
+  description: uplink-security-prison-tracking-implanter-desc
+  productEntity: PrisonTrackingImplanter
+  icon: { sprite: Objects/Specific/Medical/implanter.rsi, state: implanter0 }
   cost:
     FrontierUplinkCoin: 1
   categories:
