@@ -272,7 +272,7 @@
     Honk:
       collection: BikeHorn
     Crying:
-      path: /Audio/_MACRO/Voice/vox/voxcry.ogg # Aurora's Song
+      path: /Audio/_MACRO/Voice/Vox/voxcry.ogg # Aurora's Song
     Weh:
       collection: Weh
     Hew:
@@ -287,7 +287,7 @@
     Coo:
       collection: VoxCoo
     Hiss:
-      path: /Audio/_MACRO/Voice/vox/voxhiss.ogg
+      path: /Audio/_MACRO/Voice/Vox/voxhiss.ogg
     Whistle:
       collection: Whistles
     #  Aurora's Song End
