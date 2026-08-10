@@ -74,6 +74,9 @@ uplink-mercenary-30Rifle-OP-mags-desc = A quartet of .30 Rifle magazines, stacke
 
 # region Security Uplink
 
+uplink-security-ldr-name = Star Tech LDR
+uplink-security-ldr-desc = A high-quality assault rifle chambered in .20 rifle.
+
 uplink-security-explosivegrenades-box-name = Explosive Grenade Box
 uplink-security-explosivegrenades-box-desc = A box containing 4 HE grenades.
 
@@ -133,6 +136,9 @@ uplink-sle-softsuit-patrol-corpsman-desc = The standard-issue SLE space proof su
 
 uplink-sle-softsuit-patrol-commissioner-name = SLE Commissioner Patrol Softsuit
 uplink-sle-softsuit-patrol-commissioner-desc = The standard-issue SLE space proof suit for patrol duty. Marked for the Commissioner.
+
+uplink-security-prison-tracking-implanter-name = Prison Tracking Implant
+uplink-security-prison-tracking-implanter-desc = A subermal implant meant for tracking prisoners.
 
 # region ExchangeVend - Aurora
 store-category-exchangehardsuits = EVA Suits

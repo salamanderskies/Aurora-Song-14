@@ -11,7 +11,7 @@
       required: true
       default: [ DecapoidGillsDefault ]
     enum.HumanoidVisualLayers.Head:
-      limit: 1
+      limit: 2 # Aurora's Song
       required: false
     enum.HumanoidVisualLayers.Hair:
       limit: 1
@@ -94,7 +94,7 @@
 
     # Claw
     - map: [ "enum.HumanoidVisualLayers.LHand" ] # this is the crab claw. has to render in front of the whole body
-
+    - map: [ "legs" ] # Aurora's Song - Legs Slot
     - map: [ "neck" ]
     - map: [ "enum.HumanoidVisualLayers.FacialHair" ]
     - map: [ "enum.HumanoidVisualLayers.HeadTop" ]

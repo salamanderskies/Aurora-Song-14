@@ -253,8 +253,8 @@
   # - /Audio/_Impstation/Voice/Anomalocarid/anomalocarid_ask.ogg
   # - /Audio/_Impstation/Voice/Anomalocarid/anomalocarid_exclaim.ogg
   # - /Audio/_Impstation/Voice/Anomalocarid/anomalocarid_deathgasp.ogg
-  # - /Audio/_Impstation/Voice/Arachnid/arachnid_gasp.ogg
   # Aurora's Song Edit End
+  - /Audio/_MACRO/Voice/Arachnid/arachnid_gasp.ogg
   - /Audio/_MACRO/Voice/Decapoid/decapoid_gasp.ogg
   - /Audio/_MACRO/Voice/Decapoid/decapoid_deathgasp.ogg
   - /Audio/_MACRO/Voice/Decapoid/decapoid_scream.ogg
@@ -266,9 +266,9 @@
   - /Audio/_MACRO/Voice/Gray/gray_gasp.ogg
   - /Audio/_MACRO/Voice/Gray/gray_deathgasp.ogg
   - /Audio/_MACRO/Voice/Gray/gray_scream.ogg
+  - /Audio/_MACRO/Voice/Moth/mothgasp.ogg
+  - /Audio/_MACRO/Voice/Moth/mothyawn.ogg
   # Aurora's Song Edit Start
-  # - /Audio/_Impstation/Voice/Moth/mothgasp.ogg
-  # - /Audio/_Impstation/Voice/Moth/mothyawn.ogg
   # - /Audio/_Impstation/Voice/Reptilian/reptilian_chirp1.ogg
   # - /Audio/_Impstation/Voice/Silicon/silicon_laugh.ogg
   # - /Audio/_Impstation/Voice/Silicon/silicon_scream.ogg
@@ -291,8 +291,8 @@
   # - /Audio/_Impstation/Voice/Ungu/ungu_talk.ogg
   # - /Audio/_Impstation/Voice/Ungu/ungu_ask.ogg
   # - /Audio/_Impstation/Voice/Ungu/ungu_yell.ogg
-  # - /Audio/_Impstation/Voice/Vox/voxgasp1.ogg
   # Aurora's Song Edit End
+  - /Audio/_MACRO/Voice/Vox/voxgasp1.ogg
   - /Audio/_Impstation/Weapons/Guns/Gunshots/akurra.ogg
   # Aurora's Song Edit Start
   # - /Audio/_Impstation/Weapons/Guns/Gunshots/autodisabler.ogg
