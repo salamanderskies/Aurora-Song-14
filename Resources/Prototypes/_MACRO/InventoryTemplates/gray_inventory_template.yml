@@ -141,4 +141,11 @@
     strippingWindowPos: 2,3
     dependsOn: jumpsuit
     displayName: Wallet
+  - name: legs
+    slotTexture: legs
+    slotFlags: LEGS
+    stripTime: 6
+    uiWindowPos: 2,0
+    strippingWindowPos: 0,3
+    displayName: Legs
   # Aurora's Song End
