@@ -1,4 +1,8 @@
 ﻿- type: contrabandSeverity
+  id: Class3Biological
+  examineText: contraband-examine-text-Class3Biological
+
+- type: contrabandSeverity
   id: Class3NanoTrasen
   examineText: contraband-examine-text-Class3NanoTrasen
 

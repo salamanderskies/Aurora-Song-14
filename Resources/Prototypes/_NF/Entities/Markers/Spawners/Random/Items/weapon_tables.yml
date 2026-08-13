@@ -164,7 +164,7 @@
     children:
     - id: HyperEutacticBlade
     - id: ClothingHandsKnuckleBoneCrushers
-    - id: ArmBlade
+    - id: ArmBladeLoot # Aurora's Song - ArmBlade > ArmBladeLoot
     #- id: Kanabou
 
 # region ranged

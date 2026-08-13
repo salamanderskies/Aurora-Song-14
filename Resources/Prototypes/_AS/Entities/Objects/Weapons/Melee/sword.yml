@@ -14,3 +14,10 @@
   - type: SentienceTarget
     flavorKind: station-event-random-sentience-flavor-inanimate
     weight: 1
+
+# Loot version of the arm blade with different flavor text.
+- type: entity
+  name: severed arm blade
+  parent: ArmBlade
+  id: ArmBladeLoot
+  description: A grotesque blade made out of bone and flesh that can pry open doors, severed from its owner. It clings to your hand when you hold it.

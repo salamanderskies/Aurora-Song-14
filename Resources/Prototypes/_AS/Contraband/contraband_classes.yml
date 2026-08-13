@@ -52,6 +52,14 @@
 #    turnInValues:
 #      FrontierUplinkCoin: 10
 
+- type: entity # For things like arm blades.
+  parent: BaseC3ContrabandUnredeemable
+  id: BaseC3BiologicalContrabandUnredeemable
+  abstract: true
+  components:
+  - type: Contraband
+    severity: Class3Biological
+
 - type: entity #Aurora's Song - NanoTrasen contraband flavour text
   parent: BaseC3ContrabandUnredeemable
   id: BaseC3NanoTrasenContrabandUnredeemable
